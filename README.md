@@ -5,6 +5,7 @@
 - R code for running all analyses are in /full_analysis, and just the spatial modelling in /spatial_analysis
 - The reduced CSV form of the database (loaded in the R scripts), along with GIS layers for the spatial analysis, are in /data
 - The original full XLS database, with all 1237 records (1 record per row) is in /ttsrd_database
+- The revised XLS databse (v1.1) and .CSV files with 1223 records are also in /ttsrd_database (after some museum-record errors and duplicates were removed)
 - Attachments (original sighting descriptions and documentation) for each TTSRD record are in /ttsrd_attachments as JPG images
 
 <i>Associated peer-reviewed paper:</i>  
