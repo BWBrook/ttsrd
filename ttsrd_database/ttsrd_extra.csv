@@ -1,0 +1,1224 @@
+id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.period,no.obs,no.thyl,dist
+1,1910,3,Lowana ,-42.19045,145.36455,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+2,1910,6,Fingal,-41.63835,147.96964,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+3,1910,7,Irishtown,-40.89725,145.15795,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+4,1910,NA,Humboldt Divide,-42.72091,146.44038,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Far
+5,1910,NA,Penguin,-41.12964,146.06533,K,5,PS,Approx,Bush,Walking,Night,1,1,Near
+6,1910,NA,Pyengana,-41.28954,148.00465,C,3,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+7,1911,6,Spring Bay,-42.53103,147.93135,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+8,1911,8,Tyenna,-42.72454,146.6759,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+9,1911,12,Fitzgerald,-42.74913,146.65274,K,5,PS,Approx,Bush,Walking,Day,3+,1,Near
+10,1911,NA,Bermuda Rd,-43.05666,146.89833,K,4,PS,Approx,Road,Walking,Unkn,1,1,Near
+11,1911,NA,Railton,-41.32904,146.42365,S,5,EO,Approx,Road,Driving,Night,2,1,Near
+12,1912,5,Launceston,-41.43327,147.14408,C,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+13,1912,5,Mathinna,-41.52524,147.79078,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+14,1910,9,Dip/Arthur Rivers,-41.06102,145.36944,C,5,PS,Approx,Bush,Walking,Unkn,2,1,Near
+15,1912,NA,Nook,-41.31462,146.3226,S,5,EO,Approx,Bush,Walking,Night,3+,2,Near
+17,1913,8,Ben Lomond Creek,-41.54296,147.71619,C,5,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+19,1913,9,Ivy Glen,-41.91872,147.47728,S,5,EO,Unkn,Bush,Walking,Day,1,3+,Near
+20,1913,NA,Mt Balfour,-41.28176,144.88809,S,5,EO,Approx,Bush,Walking,Night,3+,2,Near
+21,1913,NA,Redpa,-40.93896,144.76105,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+22,1913,NA,Rocky Cape,-40.90363,145.51986,S,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+23,1914,5,Britton Swamp,-40.8903,145.03961,C,5,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+24,1914,5,Britton Swamp,-40.8903,145.03961,K,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+25,1914,5,Britton Swamp,-40.8903,145.03961,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+26,1914,10,Mainwaring River,-42.86817,145.44354,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+27,1914,NA,Hibbs River,-42.57109,145.30371,S,5,EO,Approx,Bush,Walking,Day,1,3+,Near
+28,1914,NA,Tiger Hill (Buckland),-42.51683,147.70743,C,4,PS,Approx,Bush,Walking,Unkn,2,1,Near
+29,1914,NA,Tyenna,-42.72454,146.6759,K,5,PS,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+30,1915,2,Boat Harbour,-40.95247,145.63587,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+31,1912,NA,Marrawah,-40.93425,144.6957,C,3,PS,Approx,Bush,Walking,Unkn,1,1,Near
+32,1915,10,Wynyard,-40.99545,145.71428,C,5,PS,Approx,Bush,Walking,Unkn,3+,1,Near
+33,1916,2,Browns River,-42.95841,147.2717,K,5,PS,Approx,Bush,Walking,Night,1,1,Near
+34,1916,5,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Unkn,3+,1,Near
+35,1916,5,Meunna,-40.85239,145.36667,C,5,PS,Approx,Bush,Walking,Night,3+,1,Near
+36,1916,6,Tyenna,-42.72454,146.6759,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+37,1916,10,Black River,-40.85239,145.36667,K,5,PS,Approx,Bush,Walking,Unkn,Unkn,3+,Unkn
+38,1916,NA,Woolnorth,-40.71422,144.73783,C,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+39,1917,3,Elliott,-41.10897,145.78235,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+40,1917,3,West Montagu,-40.78157,144.90197,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+41,1917,7,Mt Cameron,-40.97994,147.94073,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+44,1917,NA,Wynyard,-40.99545,145.71428,C,3,PS,Approx,Bush,Walking,Unkn,1,1,Near
+45,1918,7,Motherwell Farm,-40.85883,145.20028,S,5,EO,Approx,Road,Driving,Unkn,1,3+,Near
+46,1919,11,Kelvedon,-42.20046,148.04555,C,3,PS,Approx,Bush,Walking,Unkn,Unkn,3+,Near
+47,1919,NA,Black River,-40.85239,145.36667,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+48,1919,NA,Tullochgorum,-41.67695,147.90774,K,4,PS,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+49,1920,6,St Marys,-41.57857,148.16415,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+50,1920,NA,East Ridgley,-41.16258,145.85402,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+54,1924,1,North Bischoff Valley,-41.43987,145.61049,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+55,1924,1,North Bischoff Valley,-41.43987,145.61049,S,5,EO,Approx,Bush,Walking,Day,1,2,Near
+56,1922,7,Lake Road,-41.80304,146.94828,S,5,EO,Approx,Bush,Driving,Day,1,1,Near
+57,1922,7,Barrington Rd,-41.34251,146.28072,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+58,1923,5,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+60,1922,NA,Mt Balfour,-41.28002,144.87996,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+61,1922,NA,Pieman River,-41.6525,145.07653,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+62,1922,NA,Runnymede,-42.61781,147.56248,K*,5,EO,Approx,Bush,Walking,Unkn,1,1,Far
+63,1923,5,Adamsfield,-42.71924,146.3249,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+64,1923,6,Tyenna,-42.72454,146.6759,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+65,1923,9,Gordon River Plains,-42.59706,145.72486,C,5,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+67,1924,3,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+69,1924,NA,Deloraine,-41.52569,146.65818,K,4,PS,Approx,Bush,Walking,Night,1,1,Near
+70,1924,NA,Mt Wright,-42.62002,146.3301,S,5,EO,Approx,Bush,Walking,Unkn,2,1,Near
+71,1924,NA,Saw Back Range,-42.76637,146.34017,S,5,EO,Approx,Bush,Walking,Unkn,1,2,Far
+72,1924,NA,Styx River,-42.77837,146.77114,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+73,1925,5,Goodrich Plain,-41.65692,145.60547,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+77,1925,NA,Arthur River,-41.05263,144.66732,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+78,1925,NA,Maynes Hill,-42.7786,146.57178,C,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+79,1925,NA,Trowutta,-41.06811,145.09046,K,5,PS,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+80,1926,8,Salmon River,-41.05065,144.82125,K,5,PS,Approx,Bush,Walking,Day,2,2,Near
+81,1926,9,Salmon River,-41.05065,144.82125,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+82,1926,NA,Arthur River,-41.05263,144.66732,C*,5,EO,Approx,Bush,Walking,Unkn,2,1,Near
+83,1926,NA,Arthur River,-41.05263,144.66732,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+85,1926,NA,Lake St Clair,-42.11671,146.17776,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+87,1927,5,Adamsfield,-42.72345,146.35405,SI,5,EI,Approx,Bush,Walking,Unkn,1,1,Near
+88,1927,7,Arthur River,-41.05263,144.66732,C,4,PS,Approx,Bush,Walking,Unkn,1,1,Near
+90,1927,NA,Lagoon River,-41.51524,144.98166,C*,5,EO,Approx,Bush,Walking,Unkn,2,1,Near
+91,1927,NA,Lagoon River,-41.51524,144.98166,S,5,EO,Approx,Bush,Walking,Night,1,3+,Near
+92,1927,NA,Lake Hanson,-41.66378,145.9727,S,5,EO,Approx,Bush,Walking,Unkn,1,2,Near
+93,1927,NA,Trowutta,-41.06811,145.09046,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Near
+94,1927,7,West Oonah,-41.22432,145.61204,K,5,PS,Approx,Bush,Walking,Unkn,1,2,Near
+95,1928,1,Trowutta,-41.06811,145.09046,C,5,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+97,1928,3,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Unkn,2,1,Near
+98,1928,4,Gordon River,-42.74617,145.96541,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+100,1928,11,Port Huon,-43.14084,146.94699,S,5,EO,Approx,Bush,Walking,Unkn,3+,1,Near
+101,1928,4,Hellyer Gorge,-41.28411,145.60398,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+103,1929,4,Adamsfield,-42.71924,146.3249,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+104,1930,6,Arthur River,-41.16804,145.45115,C,5,PS,Approx,Bush,Walking,Day,2,3+,Near
+106,1929,NA,Rosebery,-41.76831,145.53792,S,5,EO,Approx,Road,Walking,Night,1,1,Near
+107,1929,NA,Wylds Craig,-42.47399,146.38991,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+108,1930,4,Newhaven Track,-40.99687,145.42598,SI,5,EI,Approx,Bush,Walking,Day,3+,3+,Near
+109,1930,5,Mawbanna,-40.93928,145.3495,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+111,1930,7,Mt Bischoff,-41.41887,145.52162,C,5,PS,Approx,Bush,Walking,Unkn,2,1,Near
+113,1930,10,Hellyer Gorge ,-41.28411,145.60398,S,5,EO,Approx,Road,Driving,Day,3+,2,Near
+114,1930,8,Mt Bischoff,-41.41887,145.52162,C,5,PS,Approx,Bush,Walking,Unkn,2,2,Near
+116,1930,NA,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Day,2,1,Near
+117,1930,NA,Mt Direction,-41.22937,147.02438,S,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+118,1930,NA,Mt Scott,-41.23072,147.55159,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+119,1930,NA,Pieman River,-41.6525,145.07653,K,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+121,1931,1,Lovetts Flats,-41.30076,146.45578,S,5,EO,Approx,Road,Walking,Day,2,1,Far
+122,1931,9,Mersey River,-41.27969,146.4363,S,5,EO,Approx,Bush,Walking,Night,3+,1,Near
+123,1931,11,Rabalga,-40.9665,145.35767,OI,4,OI,Approx,Bush,Walking,Night,1,2,Unkn
+124,1929,9,Arthur River,-41.22571,145.52361,C,5,PS,Approx,Bush,Walking,Day,1,1,Near
+125,1931,NA,Hellyer Gorge,-41.28411,145.60398,C*,5,EO,Approx,Bush,Walking,Unkn,2,1,Near
+126,1931,NA,Lake Meston,-41.89366,146.22342,C*,3,EO,Approx,Bush,Walking,Day,1,1,Near
+127,1931,7,Preolenna,-41.09003,145.5385,C,5,PS,Precise,Bush,Walking,Unkn,1,1,Near
+128,1931,10,Nabageena,-40.9984,145.13402,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+129,1931,NA,Poatina,-41.78802,146.94311,S,5,EO,Approx,Bush,Walking,Day,3+,2,Far
+130,1931,NA,Port Davey Track,-43.26632,146.07484,SI,5,EI,Broad,Bush,Walking,Day,1,1,Near
+131,1931,NA,Russell River,-42.94165,146.78799,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+133,1932,11,Alcomie,-40.93097,145.18537,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+134,1932,12,Woodstock,-43.06571,147.04177,S,5,EO,Approx,Road,Walking,Night,3+,3+,Far
+135,1934,1,Adamsfield,-42.72345,146.35405,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+136,1932,NA,Cape Sorell,-42.19787,145.16973,S,5,EO,Approx,Bush,Walking,Night,2,1,Near
+137,1932,NA,Lake St Clair,-42.01467,146.10299,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+138,1932,NA,Nelson River,-42.06714,145.77915,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+139,1933,5,Rocky River,-41.62846,145.18786,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+140,1933,NA,Boyes & Pokana River,-42.54028,146.253,K*,5,EO,Approx,Bush,Walking,Day,1,1,Near
+141,1933,NA,Port Davey Track,-43.26632,146.07484,OI,4,OI,Broad,Bush,Walking,Day,1,1,Near
+143,1933,NA,Wynyard,-40.99056,145.7447,K,5,PS,Approx,Bush,Walking,Day,3+,1,Near
+145,1934,NA,Pieman River,-41.6525,145.07653,S,5,EO,Approx,Bush,Walking,Unkn,1,2,Near
+146,1934,NA,Mt Victoria,-41.33358,147.83623,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+147,1934,NA,Spero River,-42.63628,145.33797,S,5,EO,Approx,Bush,Walking,Night,1,2,Near
+148,1935,3,King William Range,-42.28452,146.12793,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+149,1935,10,Dempster Plains,-41.19318,145.06878,C,4,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+150,1935,11,Montagu River,-40.9046,144.90325,SI,5,EI,Approx,Bush,Driving,Day,1,1,Near
+151,1935,NA,Brickmakers Bay,-40.85223,145.36012,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+152,1935,NA,Dunns Plain,-41.07971,144.83374,OI,4,OI,Approx,Bush,Walking,Night,1,2,Near
+153,1935,NA,Mt Arrowsmith,-42.21098,146.09315,S,5,EO,Approx,Road,Walking,Night,1,3+,Near
+154,1935,NA,Mt Barrow,-41.36475,147.39499,S,5,EO,Approx,Bush,Walking,Night,1,2,Near
+155,1935,NA,Mt Wedge,-42.84841,146.2981,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Near
+156,1936,1,Dolly River,-40.95975,145.18483,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+157,1936,7,Collingwood River,-42.16279,145.92755,S,5,EO,Approx,Bush,Walking,Night,2,1,Near
+158,1936,9,Surprise Valley,-42.21654,146.07162,S,5,EO,Approx,Road,Walking,Night,1,1,Near
+159,1936,12,Lake St Clair,-42.11671,146.17776,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+160,1937,1,Dolly River,-40.95975,145.18483,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+161,1936,12,Rogerton,-41.03158,145.02539,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+162,1936,NA,Black River,-40.86182,145.32864,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+163,1936,NA,Cardigan River,-42.12583,145.83306,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+165,1936,11,Lileah,-40.96168,145.17811,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+166,1936,NA,Togari,-40.95616,144.85299,S,5,EO,Approx,Bush,Driving,Unkn,1,1,Near
+167,1936,NA,Tarraleah,-42.30087,146.44899,C*,4,EO,Approx,Bush,Walking,Unkn,Unkn,1,Near
+168,1936,NA,Franklin River,-42.23802,145.81435,S,5,EO,Approx,Bush,Walking,Day,2,2,Near
+169,1936,NA,Traveller River,-42.11394,146.22995,K*,4,EO,Approx,Bush,Walking,Day,1,1,Near
+170,1937,1,Dolly River,-40.95975,145.18483,S,5,EO,Approx,Bush,Walking,Night,1,3+,Far
+171,1937,1,Port Davey,-43.23149,145.97077,OI,3,OI,Approx,Bush,Walking,Night,1,2,Far
+172,1937,2,Lofty Ranges,-41.6319,145.09183,S,5,EO,Approx,Bush,Walking,Night,1,3+,Far
+173,1937,2,Jane River,-42.40186,145.98316,SI,5,EI,Approx,Bush,Walking,Day,1,3+,Near
+174,1937,3,Mt Bischoff,-41.43085,145.52009,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+175,1937,4,Eldon Peak,-41.99856,145.83469,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Far
+176,1937,4,Engineer Range,-42.28334,145.75,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Far
+177,1937,4,Waratah,-41.47432,145.2546,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+178,1937,7,Mt Hobhouse ,-42.28191,146.20118,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+179,1937,NA,Arthur River,-41.05263,144.66732,K*,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+180,1937,NA,Arthur River,-41.05263,144.66732,SI,5,EI,Approx,Bush,Walking,Night,2,1,Near
+181,1937,NA,Dee River,-42.50707,146.65027,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+182,1937,NA,Calder,-41.03918,145.64017,S,5,EO,Approx,Bush,Walking,Night,1,3+,Near
+183,1937,NA,Duck Bay,-40.80616,145.14251,S,5,EO,Approx,Bush,Walking,Night,1,3+,Near
+184,1937,NA,Franklin River,-42.37584,145.75683,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Far
+185,1937,NA,Jubilee Range,-42.91736,146.53277,C,4,PS,Approx,Bush,Walking,Night,1,1,Near
+186,1937,NA,Jubilee Range,-42.91736,146.53277,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+187,1937,NA,Kelly Basin,-42.32383,145.6086,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,3+,Unkn
+188,1937,NA,Whyte River ,-41.40754,145.45166,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+189,1937,NA,Middleton Creek,-41.63382,145.08163,S,5,EO,Approx,Bush,Walking,Day,1,2,Near
+191,1937,NA,Mt Hobhouse,-42.28191,146.20118,SI,5,EI,Approx,Bush,Walking,Day,1,Unkn,Near
+192,1937,11,Raglan Range,-42.1463,145.79458,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Far
+193,1937,NA,Sandy Cape,-41.42051,144.75019,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+194,1937,NA,Spero River,-42.63628,145.33797,S,5,EO,Approx,Bush,Walking,Day,1,3+,Near
+195,1938,9,Mt Rufus Track,-42.11718,146.12921,SI,5,EI,Approx,Bush,Walking,Day,Unkn,1,Near
+196,1938,NA,Fourfoot Mill,-43.15276,146.91972,SI,5,EI,Approx,Bush,Walking,Day,Unkn,1,Near
+197,1938,NA,Irishtown,-40.89725,145.15795,S,5,EO,Approx,Bush,Walking,Day,1,2,Far
+198,1938,NA,Arve Valley,-43.15249,146.86547,SI,5,EI,Approx,Bush,Walking,Day,Unkn,1,Near
+200,1939,4,Arthur River,-41.07703,144.69367,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+201,1939,NA,Wedge River,-42.85857,146.22983,S,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+202,1940,12,Greenes Creek,-41.33117,144.75059,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+203,1940,NA,Gum Ridge,-42.45027,146.00386,OI,4,OI,Approx,Bush,Walking,Night,1,2,Far
+205,1941,11,Lake St Clair,-42.11671,146.17776,S,5,EO,Approx,Bush,Walking,Day,3+,1,Unkn
+206,1942,7,Waratah,-41.48511,145.248,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+207,1943,6,Jones Creek,-41.4687,145.30739,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+208,1943,8,Mt Rufus,-42.11718,146.12921,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+209,1943,12,Magnet Valley,-41.43405,145.48118,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+210,1944,3,Gold Creek,-42.80624,146.58851,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+212,1945,6,Mt Arrowsmith,-42.21688,146.07265,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+213,1946,11,Rasselas Valley,-42.59048,146.34336,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+214,1946,NA,Mt Misery,-42.96972,147.00799,SI,5,EI,Approx,Bush,Walking,Day,2,3+,Near
+215,1947,4,Russell & Denison Valleys,-42.97744,146.8217,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+216,1947,7,Lyell Highway,-42.17325,146.3593,S,5,EO,Approx,Bush,Walking,Day,3+,1,Far
+217,1947,NA,Dismal River,-40.95134,144.84193,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+218,1948,9,Goodwins Peak,-43.07662,147.19042,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+219,1948,12,Bermuda,-43.05666,146.89833,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+220,1949,2,Ranelagh,-43.00467,147.02932,S,5,EO,Approx,Road,Walking,Day,1,1,Near
+221,1949,2,Mountain River,-42.94243,147.12849,O*I,1,OI,Approx,Bush,Walking,Night,2,1,Near
+222,1949,10,Cracroft River,-43.17958,146.50365,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+223,1950,NA,Corinna-Waratah Rd,-41.46709,145.2881,S,3,EO,Approx,Road,Driving,Night,Unkn,1,Near
+224,1950,NA,Christmas Hills,-40.90143,145.00194,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+225,1951,NA,Ellendale,-42.61854,146.71654,S,3,EO,Approx,Bush,Walking,Day,1,1,Near
+227,1951,NA,Frenchmans Cap,-42.26596,145.83501,S,4,EO,Approx,Bush,Walking,Unkn,2,1,Near
+228,1952,3,Repulse/Derwent Rivers,-42.53801,146.52689,S,5,EO,Precise,Bush,Walking,Day,2,1,Far
+229,1952,6,Mt Roland,-41.48282,146.34768,S,4,EO,Approx,Road,Driving,Unkn,Unkn,1,Near
+230,1952,7,Little Gell River,-42.44026,146.25363,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+231,1952,9,Magog Mountain,-41.55014,146.50162,S,3,EO,Approx,Road,Driving,Night,2,1,Near
+236,1938,11,Thirkell's Creek,-42.3569,145.96949,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+238,1926,NA,North East,-41.34602,147.77863,K*,5,EO,Broad,Road,Driving,Unkn,3+,1,Near
+240,1929,NA,Pelverata,-43.04387,147.1189,S,3,EO,Approx,Unkn,Walking,Night,1,1,Near
+241,1937,5,West Coast,-42.06122,145.25448,S,5,EO,Broad,Bush,Walking,Night,1,1,Near
+242,1939,NA,Fitzgerald,-42.74913,146.65274,S,4,EO,Approx,Unkn,Walking,Night,1,1,Near
+243,1940,NA,Frodshams Pass,-42.81798,146.38721,S,5,EO,Approx,Bush,Walking,Unkn,2,1,Near
+245,1942,NA,Huntley Plains,-42.69771,146.39508,S,5,EO,Approx,Bush,Walking,Day,1,1,Far
+251,1945,9,Collingwood Range,-42.18027,145.91213,S,5,EO,Approx,Road,Driving,Unkn,Unkn,1,Near
+252,1946,1,Mt Arrowsmith,-42.21363,146.06708,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+254,1946,3,Jane River,-42.31036,145.83912,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+255,1946,4,Mt Picton,-43.15,146.60012,C*,3,EO,Approx,Bush,Walking,Day,2,3+,Near
+258,1947,NA,Balfour Track,-41.1641,144.93768,SI,5,EI,Approx,Bush,Walking,Night,2,1,Far
+259,1947,NA,Lake King William,-42.21662,146.26092,K*,5,EO,Approx,Bush,Walking,Unkn,1,3+,Near
+260,1947,NA,Mathinna,-41.35561,147.95173,C*,4,EO,Approx,Bush,Walking,Day,2,1,Near
+262,1948,12,Antill Ponds,-42.21888,147.40785,O,5,OO,Approx,Road,Driving,Night,1,2,Far
+264,1948,NA,Mawbanna,-40.9665,145.35767,K*,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+265,1948,NA,Pieman River,-41.6525,145.07653,K*,4,EO,Approx,Bush,Walking,Night,1,3+,Near
+268,1949,NA,Natone,-41.16448,145.92134,K*,4,EO,Approx,Bush,Walking,Night,1,1,Near
+271,1951,5,Great Lake,-41.98078,146.72157,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Far
+272,1951,NA,Bermuda,-43.05666,146.89833,O,5,OO,Approx,Bush,Walking,Day,2,1,Near
+273,1951,NA,Lyell Highway,-42.09114,145.69999,S,5,EO,Approx,Road,Driving,Unkn,1,1,Unkn
+274,1952,1,Devonport,-41.1801,146.35023,O,5,OO,Approx,Bush,Walking,Day,2,3+,Near
+275,1952,1,Pieman River,-41.54474,145.09177,OI,4,OI,Approx,Bush,Walking,Day,1,1,Near
+278,1952,8,House's Run,-41.1722,145.53427,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+279,1952,8,Oonah,-41.2252,145.61584,O,3,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+280,1952,NA,Deloraine,-41.67828,146.59887,K*,3,EO,Approx,Road,Driving,Unkn,Unkn,1,Near
+281,1951,4,Walls of Jerusalem ,-41.77361,146.23744,S,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+282,1950,NA,Smithton,-40.8549,145.11853,C*,4,EO,Approx,Bush,Walking,Day,1,1,Near
+283,1953,1,Cox's Bight & New River Lagoon,-43.4976,146.275,SI,3,EI,Approx,Bush,Walking,Day,3+,1,Near
+284,1953,1,Tunbridge,-42.12797,147.44597,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+285,1953,3,Mt Scott,-41.2428,147.535,K*,4,EO,Approx,Bush,Walking,Day,2,1,Near
+287,1953,5,Weld River,-42.81723,146.43215,OI,4,OI,Approx,Bush,Walking,Day,2,1,Near
+288,1953,8,Winnaleah,-41.07391,147.83959,C*,4,EO,Approx,Bush,Walking,Day,1,1,Near
+289,1953,9,Western Tiers,-41.74996,146.58128,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+290,1953,9,Lottah,-41.24395,148.01858,SI,4,EI,Approx,Bush,Walking,Day,Unkn,1,Near
+292,1954,4,East Coast Highway,-42.15185,148.06808,O,3,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+293,1954,6,Mt Arrowsmith,-42.21688,146.07265,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+294,1954,8,Corinna-Waratah Rd,-41.46709,145.2881,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+295,1955,11,Loongana,-41.41051,145.96324,O,5,OO,Approx,Bush,Walking,Unkn,1,3+,Near
+296,1956,1,Traveller Range,-42.06668,146.23331,S,5,EO,Approx,Bush,Walking,Day,3+,1,Far
+297,1956,2,Queenstown,-42.14296,145.48643,O,5,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+298,1956,4,Que River,-41.60691,145.51332,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+299,1956,6,Point Hibbs,-42.60374,145.295,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+300,1956,11,Ringarooma,-41.23152,147.72421,O,1,OO,Approx,Bush,Walking,Day,1,1,Near
+301,1956,NA,Snake River,-42.95101,146.54404,S,4,EO,Approx,Bush,Walking,Day,2,2,Near
+303,1957,1,Birthday Bay,-42.43838,145.25179,O,4,OO,Approx,Bush,Driving,Day,3+,1,Far
+304,1957,3,Cardigan River,-42.12583,145.83306,O,4,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+305,1957,9,Tanina,-42.62838,147.03305,OI,3,OI,Approx,Bush,Walking,Day,2,1,Near
+307,1958,1,Mt Hayes,-43.13004,146.23975,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+309,1958,3,Cardigan River,-42.12583,145.83306,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+310,1958,9,Foothills of the Stack's Bluff - Ben Lomond massif.,-41.63032,147.65756,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+311,1958,NA,Walls of Jerusalem ,-41.90178,146.25172,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+312,1958,NA,Tanina,-42.62838,147.03305,O,5,OO,Approx,Bush,Walking,Day,1,1,Near
+313,1959,5,Mawbanna,-40.9665,145.35767,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+314,1959,5,Trowutta,-41.06811,145.09046,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+315,1959,7,Coles Bay,-42.14463,148.29012,S,4,EO,Approx,Bush,Walking,Night,1,1,Near
+316,1959,8,Trowutta Mill,-40.8783,145.08782,S,3,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+317,1959,10,Zeehan-Queenstown Rd,-41.89198,145.3936,S,5,EO,Approx,Road,Driving,Day,3+,1,Near
+318,1959,11,Woolnorth,-40.75034,144.70244,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+319,1959,NA,Traveller Range,-42.06668,146.23331,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+320,1960,3,Queenstown,-42.13418,145.48993,O,3,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+321,1960,11,Rossarden,-41.64609,147.67524,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+322,1963,NA,Wild Dog Creek,-41.81026,146.28079,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+323,1960,NA,Manuka River,-42.12661,145.31618,O,5,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+324,1960,NA,Mersey Lea,-41.3706,146.47355,C*,5,EO,Approx,Bush,Walking,Day,1,1,Near
+325,1961,4,Circular Head,-40.81164,145.25655,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+326,1961,5,Lyell Highway,-42.11493,145.78215,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+327,1961,8,Sandy Cape,-41.28109,144.71637,K*,3,EO,Approx,Bush,Walking,Night,2,1,Near
+328,1961,10,Strahan-Queenstown track,-42.15918,145.41448,O,4,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+329,1961,11,Woolnorth,-40.71422,144.73783,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+330,1961,NA,Golden Valley,-41.63904,146.71637,K*,4,EO,Approx,Bush,Walking,Day,1,1,Near
+331,1961,NA,Legerwood Rd,-41.20096,147.73001,O,3,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+332,1961,NA,Mawbanna,-40.9665,145.35767,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+333,1962,12,Woolnorth,-40.71422,144.73783,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+334,1962,NA,Lobster Lake,-43.01868,146.60838,S,4,EO,Approx,Bush,Walking,Day,2,1,Near
+335,1963,7,Pieman River,-41.6525,145.07653,O*I,2,OI,Approx,Bush,Walking,Unkn,3+,3+,Unkn
+336,1963,12,Lake Mackenzie,-41.68045,146.38101,S,5,EO,Approx,Bush,Walking,Night,2,1,Near
+337,1964,11,Sisters Creek,-40.96275,145.562,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+339,1964,NA,Collingwood River,-42.16279,145.92755,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+340,1966,1,Ansons Bay,-41.03545,148.26804,O,4,OO,Approx,Bush,Walking,Night,3+,1,Far
+341,1966,3,Henty River,-41.99392,145.47139,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+343,1966,11,Cradle Mountain,-41.56245,145.78159,O,3,OO,Approx,Road,Driving,Day,2,1,Far
+344,1966,11,Montagu Swamp,-40.89677,144.91476,O,4,OO,Approx,Road,Driving,Day,3+,1,Near
+346,1967,NA,No location given,NA,NA,K*,3,EO,Unkn,Bush,Walking,Night,1,1,Near
+347,1982,4,Derwent Valley,-42.74196,146.86639,O,4,OO,Broad,Bush,Walking,Day,2,1,Near
+348,1968,11,Buckland,-42.61619,147.6463,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+349,1968,NA,Fingal,-41.61695,147.93339,S,4,OO,Approx,Bush,Walking,Day,1,2,Near
+351,1969,5,Lewis River,-42.95003,145.54816,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+352,1969,6,Woolnorth,-40.71422,144.73783,OI,4,OI,Approx,Bush,Walking,Day,1,1,Near
+353,1969,5,Fingal,-41.61695,147.93339,O*,3,OO,Approx,Bush,Walking,Day,1,1,Near
+354,1969,NA,Pipers River,-41.08803,147.103,S,4,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+355,1970,1,Point Hibbs,-42.60374,145.295,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+357,1970,7,Dasher Hill,-41.44432,146.29547,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+359,1970,NA,Cluny,-42.50706,146.67568,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+360,1970,NA,Rapid River,-41.16922,145.14503,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+361,1970,NA,Scottsdale,-41.23224,147.45755,O,4,OO,Approx,Road,Driving,Night,3+,1,Near
+362,1970,NA,Welcome Swamp,-40.95052,144.7968,O,4,OO,Approx,Bush,Walking,Unkn,3+,1,Unkn
+363,1971,4,Liena,-41.55703,146.22446,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+364,1971,5,Beulah,-41.45089,146.37843,OI,4,OI,Approx,Bush,Walking,Day,1,1,Near
+366,1971,NA,East,-42.22787,147.72321,O,4,OO,Broad,Bush,Walking,Day,1,1,Near
+367,1972,1,Mt Roland,-41.46231,146.26685,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+368,1972,NA,Dunalley,-42.88672,147.81236,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+369,1972,NA,North West,-41.11541,144.9838,O,4,OO,Broad,Road,Driving,Night,1,1,Near
+370,1973,2,Flinders Creek,-42.99008,147.8892,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+371,1974,NA,Lake St Clair,-42.11671,146.17776,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+372,1974,NA,Lisdillon,-42.26506,148.00239,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+373,1975,1,Burnt Bridge Gully,-42.54,147.82,O,5,OO,Approx,Bush,Walking,Day,2,1,Near
+374,1975,3,Milabena,-40.85239,145.36667,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+375,1975,10,Sisters Hills,-40.91306,145.51411,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+376,1975,11,Sisters Hills,-40.91306,145.51411,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+377,1975,NA,Mt Lloyd,-42.83086,146.94704,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+378,1976,3,Milabena,-40.85239,145.36667,C*,5,OO,Approx,Bush,Walking,Day,1,1,Near
+379,1976,6,Pieman River,-41.72386,145.00411,OI,4,OI,Approx,Bush,Walking,Day,1,1,Near
+380,1976,NA,Orford,-42.56861,147.87747,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+382,1977,8,Derby,-41.14608,147.80167,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+384,1977,NA,North West,-41.23176,144.69192,K*,5,OO,Broad,Bush,Walking,Unkn,1,1,Unkn
+385,1978,2,Hellyer Gorge,-41.28411,145.60398,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+386,1978,11,Hobbs Island,-43.21899,145.80085,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+387,1978,NA,Meunna Rd,-41.12007,145.52357,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+388,1979,NA,Saw Back Range,-42.76637,146.34017,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+389,1980,2,Dawsons Siding Rd,-41.27937,146.39975,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+390,1980,2,Mulcahy Beach,-43.11218,145.72804,O,3,OO,Approx,Bush,Walking,Day,1,1,Unkn
+391,1980,11,Underwood,-41.2933,147.20419,O,3,OO,Approx,Bush,Walking,Day,1,1,Near
+392,1980,NA,Lake Chisholm,-41.1333,145.0633,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+393,1980,NA,South East,-43.4164,146.90914,O,5,OO,Broad,Bush,Walking,Day,1,1,Near
+394,1981,2,Rosegarland,-42.70931,146.946,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+395,1981,3,Mainwaring River,-42.86817,145.44354,S,3,EO,Approx,Bush,Walking,Day,3+,1,Far
+396,1981,3,Mt Eliza,-42.96221,146.39962,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+397,1981,6,Golconda,-41.20167,147.30328,O,2,OO,Approx,Road,Driving,Day,2,1,Near
+398,1981,11,Lyell Highway,-42.16279,145.92755,O,3,OO,Broad,Road,Driving,Unkn,1,1,Near
+400,1982,3,Avoca,-41.78138,147.72193,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+401,1982,3,Togari,-41.05042,144.82157,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+402,1982,10,Emu River,-41.17632,145.87189,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+404,1985,5,No location given,NA,NA,O,4,OO,Unkn,Road,Driving,Day,1,1,Far
+405,1986,1,Pipers River,-41.08803,147.103,O,3,OO,Approx,Road,Driving,Night,3+,1,Near
+406,1986,NA,Frankland River,-41.07521,144.77212,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+407,1987,7,Nive River,-42.18048,146.4582,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+408,1988,1,Ferny Hill Rd,-41.13989,147.2987,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+409,1989,1,Ferny Hill Rd,-41.13989,147.2987,O,1,OO,Approx,Road,Driving,Night,2,1,Near
+410,1989,9,Gordon Highway,-42.81414,146.38527,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+411,1989,NA,Elephant Pass,-41.63074,148.23289,K*,4,OO,Approx,Road,Driving,Day,2,1,Near
+412,1990,NA,Adamsfield,-42.71924,146.3249,K*,4,EO,Approx,Bush,Walking,Day,2,1,Near
+413,1991,2,Maydena,-42.7677,146.56023,O,4,OO,Precise,Road,Driving,Unkn,1,1,Unkn
+414,1991,6,The Sideling Lookout,-41.25766,147.43029,O,2,OO,Approx,Road,Driving,Day,1,1,Near
+415,1993,NA,Mt Field,-42.68553,146.59338,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+416,1995,1,Pyengana,-41.28954,148.00465,O,5,OO,Approx,Bush,Walking,Night,1,1,Far
+417,1995,3,Snake River,-42.95101,146.54404,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+419,1997,NA,Meadowbank Dam,-42.61183,146.84053,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+420,1998,12,Pyengana,-41.28954,148.00465,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+421,1999,1,Great Lake,-41.98078,146.72157,O,3,OO,Approx,Road,Driving,Day,2,1,Near
+422,2002,5,Lindsay River,-41.32714,144.98069,S,5,EO,Approx,Road,Walking,Day,1,2,Near
+423,2004,4,Derwent Bridge,-42.12807,146.23752,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+424,2005,4,Modder River,-42.50377,145.26224,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+426,2009,4,Tullah,-41.73967,145.61492,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+427,2011,12,Midland Hwy,-41.95377,147.49582,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+428,2012,3,Campbell Town,-41.98852,147.50606,O,4,OO,Approx,Road,Driving,Night,2,2,Near
+429,2014,8,Lyell Highway,-42.16224,145.923,S,4,EO,Approx,Road,Driving,Day,1,1,Far
+430,2015,4,Poatina,-41.79541,146.95811,O,2,OO,Approx,Road,Driving,Day,3+,1,Far
+431,2015,8,South East,-43.4164,146.90914,O,2,OO,Broad,Road,Driving,Day,2,1,Near
+435,1961,8,Arthur River,-41.08312,144.77039,O,5,OO,Approx,Bush,Walking,Day,1,1,Near
+436,1961,11,Talinah Lagoon,-41.88311,146.43274,O,5,OO,Approx,Bush,Walking,Night,3+,1,Near
+437,1963,2,Mainwaring River,-42.85536,145.43666,SI,5,EI,Precise,Bush,Walking,Day,3+,1,Near
+438,1970,7,Lower Beulah,-41.45051,146.40872,S,4,EO,Approx,Road,Driving,Night,2,1,Near
+439,1961,7,Adamsfield,-42.71781,146.2948,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+440,1970,12,Meander,-41.70526,146.56663,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+441,1970,7,Myrtle Forest Reserve,-41.21654,147.93795,O,4,OO,Approx,Road,Driving,Night,3+,3+,Near
+442,1969,6,Glen Huon,-43.02519,146.95824,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+443,1966,6,Luina,-41.46707,145.38461,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+444,1970,9,Beechford,-41.03597,146.9388,O,4,OO,Approx,Bush,Walking,Night,3+,1,Near
+445,1977,3,Black River ,-40.85557,145.30613,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+446,1978,NA,Interview River,-41.56104,144.95066,S,3,EO,Approx,Bush,Walking,Unkn,2,3+,Near
+447,1977,3,Mawbanna,-40.94024,145.33689,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+448,1978,3,Savage River,-41.28148,145.31983,S,4,EO,Approx,Bush,Walking,Day,2,1,Near
+449,1946,NA,Balfour,-41.26365,144.88296,OI,4,OI,Approx,Bush,Walking,Night,1,2,Far
+450,1970,NA,Little Pine Lagoon,-42.00165,146.60989,S,3,EO,Approx,Road,Driving,Night,3+,1,Near
+452,1970,7,Frome River,-41.13305,147.90267,S,4,EO,Approx,Bush,Walking,Day,2,1,Near
+453,1969,7,Weld Hill,-41.13843,147.88471,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+454,1966,8,Dee Lagoon,-42.28233,146.60861,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+455,1971,5,Wynyard,-40.99988,145.62574,O,3,OO,Approx,Road,Driving,Night,3+,1,Near
+456,1944,NA,Montumana,-40.94966,145.52136,K*,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+457,1941,4,Wylds Craig,-42.47399,146.38991,OI,4,OI,Approx,Bush,Walking,Night,3+,2,Far
+458,1952,NA,South Gordon Track,-42.84252,146.2901,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+459,1954,NA,Eldon River,-41.95569,145.76143,S,4,EO,Approx,Bush,Walking,Day,1,2,Near
+460,1952,10,Long Hill Camp,-41.35903,146.47586,SI,5,EI,Approx,Bush,Walking,Night,3+,1,Far
+461,1952,2,Arthur River,-41.11518,144.98362,OI,3,OI,Approx,Bush,Walking,Night,3+,1,Far
+462,1953,11,Fraser Creek,-41.12068,148.14769,S,5,EO,Approx,Bush,Walking,Day,2,1,Far
+463,1947,NA,Frog Flats,-41.83922,146.00564,S,4,EO,Approx,Bush,Walking,Day,3+,1,Unkn
+464,1952,NA,Union Bridge,-41.4857,146.34952,O,5,OO,Approx,Road,Walking,Unkn,2,1,Unkn
+465,1953,NA,Liena,-41.55035,146.23006,O,5,OO,Approx,Bush,Walking,Day,1,1,Near
+466,1946,6,Pine Lake,-41.74397,146.70533,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+467,1957,NA,Preolenna,-41.0847,145.55643,S,4,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+468,1952,NA,Glen Huon,-43.02519,146.95824,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+469,1951,NA,Arthur River,-41.05263,144.66732,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+470,1944,NA,Cardigan River,-42.12583,145.83306,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+471,1952,NA,Mathinna,-41.52524,147.79078,K*,4,EO,Approx,Bush,Walking,Day,2,1,Near
+472,1952,7,Mt Roland,-41.45101,146.32798,O,5,OO,Approx,Road,Driving,Night,1,1,Near
+473,1954,4,Corinna-Waratah Rd,-41.46709,145.2881,O,5,OO,Approx,Road,Driving,Day,1,1,Near
+474,1965,12,Strahan,-42.14044,145.35424,O,4,OO,Approx,Bush,Walking,Day,2,1,Far
+475,1962,NA,Corinna,-41.53001,145.20909,O,5,OO,Approx,Road,Driving,Day,2,1,Far
+476,1941,NA,Whyte River,-41.40754,145.45166,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+477,1943,NA,Whyte River,-41.40754,145.45166,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+478,1912,NA,West Montagu,-40.78157,144.90197,C,5,PS,Approx,Bush,Walking,Day,1,1,Near
+479,1961,11,Lyell Highway,-43.00468,146.35712,SI,4,EI,Broad,Bush,Walking,Day,3+,1,Near
+481,1963,NA,Queenstown,-42.15582,145.4457,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+482,1963,NA,Zeehan,-41.88585,145.26268,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+483,1962,11,Moulting Lagoon,-42.02518,148.22747,O,3,OO,Approx,Road,Driving,Night,1,1,Unkn
+484,1957,4,Whyte River,-41.40754,145.45166,O,5,OO,Approx,Bush,Walking,Day,2,1,Near
+486,1960,2,New River,-43.46722,146.55611,OI,3,OI,Approx,Bush,Walking,Day,2,1,Near
+488,1926,NA,Wedge River,-42.85857,146.22983,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+490,1951,2,Hellyer Gorge,-41.21923,145.57138,OI,4,OI,Approx,Bush,Walking,Night,1,2,Near
+491,1950,12,Whale Head,-43.63667,146.87111,O,5,OO,Approx,Bush,Walking,Day,1,1,Near
+494,1944,4,Whyte Valley,-41.46449,145.39621,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+495,1943,3,Green Hill,-42.76058,146.32686,SI,5,EI,Approx,Bush,Walking,Day,1,3+,Near
+496,1945,7,Lake Petrach & Mt Hugel [2 sites],-42.07483,146.07912,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+497,1940,NA,Pyengana-Mathinna,-41.28954,148.00465,C*,4,EO,Approx,Bush,Walking,Day,1,2,Near
+498,1947,2,Preolenna,-41.04125,145.59501,O,2,OO,Approx,Road,Driving,Day,1,1,Near
+499,1963,1,Circular Head,-40.81164,145.25655,O,4,OO,Approx,Road,Driving,Day,1,1,Far
+500,1960,6,Swansea,-42.13378,148.07115,O*,2,OO,Approx,Bush,Walking,Night,3+,1,Unkn
+501,1970,7,Copley Dam,-42.83494,147.0522,O,3,OO,Approx,Road,Walking,Night,1,1,Near
+502,1972,2,Port Davey,-43.23149,145.97077,SI,3,EI,Approx,Bush,Walking,Day,2,1,Near
+503,1974,8,Vale of Belvoir,-41.5537,145.89886,S,4,EO,Approx,Bush,Walking,Night,3+,1,Near
+505,1911,1,River Forth,-41.47154,146.13613,S,5,EO,Approx,Bush,Walking,Night,2,1,Near
+506,1911,2,Florentine Valley,-42.72656,146.64579,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Near
+507,1925,12,Mt Stronach,-41.178,147.59359,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+508,1925,12,Forester River,-41.14285,147.61824,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+509,1943,5,Mt Lloyd,-42.83086,146.94704,S,5,EO,Approx,Bush,Walking,Day,3+,2,Far
+510,1974,NA,Tomahawk,-40.8724,147.7688,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+511,1989,NA,Saw Back Range,-42.76637,146.34017,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+512,1985,NA,Waddamana,-42.18935,146.84233,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+513,1990,2,Bothwell,-42.45429,146.94518,S,4,EO,Approx,Road,Driving,Unkn,1,1,Near
+514,2001,1,Batman Bridge,-41.21837,146.91355,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+515,1989,NA,Florentine Valley,-42.74812,146.56781,S,4,EO,Approx,Bush,Walking,Day,3+,1,Near
+516,1979,NA,Mt Wellington,-42.89002,147.22918,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+517,1996,6,Davisons Bay,-40.65634,144.71506,O,2,OO,Approx,Bush,Walking,Day,2,1,Far
+518,1997,8,Woodsdale,-42.48153,147.57644,O,4,OO,Approx,Bush,Walking,Day,1,1,Far
+519,1998,1,Queenstown-Zeehan Rd,-41.92462,145.42979,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+520,1998,3,Lake Loane,-41.79474,146.25411,O,4,OO,Approx,Bush,Walking,Day,1,1,Far
+521,1998,7,Queenstown-Strahan Rd,-42.15579,145.44573,O,2,OO,Approx,Road,Driving,Night,2,1,Near
+522,2000,3,Franklin-Gordon,-42.21523,146.01984,O,4,OO,Approx,Road,Driving,Night,1,1,Far
+524,1998,12,Poatina,-41.91235,147.37708,O*,3,OO,Approx,Road,Driving,Night,2,1,Far
+525,2002,NA,Turks Landing ,-41.039,144.68274,O*I,2,OI,Approx,Bush,Walking,Day,1,2,Near
+526,1995,NA,Couta Rocks,-41.17002,144.6943,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+527,1916,9,Mt Wellington,-42.91528,147.24825,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+528,1953,NA,Lake Pedder,-42.94898,146.20777,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+529,1980,7,Mole Creek,-41.55654,146.40325,S,5,EO,Approx,Road,Driving,Night,3+,1,Near
+531,1950,10,Bermuda Rd,-43.05666,146.89833,SI,3,EI,Approx,Bush,Walking,Day,3+,1,Near
+532,1954,5,Misty Creek,-41.57733,146.17455,S,4,EO,Approx,Bush,Walking,Day,3+,3+,Near
+533,1951,2,Florentine Valley,-42.5725,146.41944,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+534,1951,NA,Misery Range,-42.96972,147.00799,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+536,1938,11,Riner's Camp,-42.33214,145.83626,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+537,1938,11,Loddon Plains,-42.27928,145.94007,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+538,1937,NA,Arthur River,-41.06376,144.6646,S,5,EO,Approx,Bush,Walking,Day,1,1,Unkn
+539,1948,11,Swansea Road,-42.00827,147.87677,O,5,OO,Approx,Road,Driving,Day,2,1,Near
+540,1948,11,Coles Bay Rd,-42.03376,148.22431,O,5,OO,Approx,Road,Driving,Unkn,2,1,Unkn
+541,2000,NA,Liffey,-41.69904,146.85282,O*,2,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+542,1998,NA,Midlands,-42.01379,147.49199,K*,5,OO,Broad,Bush,Walking,Day,1,1,Near
+543,1953,NA,Nabowla,-41.16061,147.36868,C*,3,EO,Approx,Bush,Walking,Day,1,1,Near
+544,1960,NA,Bridgenorth Road,-41.38146,146.95605,O,4,OO,Approx,Road,Driving,Night,3+,1,Near
+546,1957,NA,East Tamar,-41.23964,147.00781,O,5,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+547,1957,NA,Zeehan,-41.88708,145.3379,O,5,OO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+548,1963,NA,Sandy Cape,-41.42051,144.75019,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+550,1987,NA,West Coast,-42.06122,145.25448,O,3,OO,Broad,Road,Driving,Night,1,1,Far
+551,1946,3,Reuben Creek Mineralized Area,-42.82876,145.42561,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+552,1946,3,Horburg Creek Mineralized Area,-42.80169,145.41943,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+553,1947,3,Mayday Mountain,-41.57841,145.83021,SI,5,EI,Approx,Bush,Walking,Night,1,1,Near
+554,1947,3,Mackintosh River,-41.70866,145.6447,OI,4,OI,Approx,Bush,Walking,Day,1,2,Far
+555,1981,2,Cradle Mountain,-41.54233,145.9401,OI,4,OI,Approx,Bush,Walking,Day,2,1,Near
+558,1911,12,Stoodley,-41.39456,146.40809,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+559,1945,3,Bluff Hill Point,-41.0185,144.62678,S,5,EO,Approx,Bush,Walking,Night,3+,1,Near
+560,1966,11,Tasman Hwy,-42.82457,147.73714,S,4,EO,Approx,Road,Driving,Night,2,1,Near
+561,1932,NA,Ellendale,-42.61854,146.71654,C*,5,EO,Approx,Bush,Walking,Day,1,1,Near
+562,1964,NA,Arthur River,-41.11014,145.3443,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+563,1954,3,Deloraine,-41.57728,146.63955,S,4,EO,Approx,Road,Driving,Night,2,1,Near
+564,1973,2,Mathinna,-41.46317,147.79917,S,4,EO,Approx,Road,Driving,Day,1,1,Near
+565,1995,NA,Montagu Swamp,-40.89677,144.91476,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+566,1985,NA,Blue Tier,-41.20052,148.00412,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+567,1986,NA,Golconda,-41.20167,147.30328,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+568,1980,NA,Florentine Valley,-42.63182,146.44766,O,4,OO,Approx,Road,Driving,Day,2,1,Far
+569,2002,NA,Penstock,-42.07781,146.76832,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+570,1978,NA,Neika,-42.94906,147.23093,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+571,2006,NA,Warra Creek,-41.05666,144.75843,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+572,1968,NA,Britton Bros. Sawmill,-40.96352,145.0022,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+573,2002,NA,Pieman River,-41.6267,145.07778,O,5,OO,Approx,Road,Driving,Day,2,1,Near
+574,1956,NA,Marrawah,-40.93425,144.6957,S,5,EO,Approx,Road,Driving,Night,3+,1,Near
+575,1998,NA,Adamsfield,-42.77328,146.2996,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+576,1973,NA,Lake Gordon,-42.72502,146.07918,O,5,OO,Approx,Road,Walking,Day,2,1,Near
+577,1998,7,Queenstown-Strahan Rd,-42.15755,145.39326,O*,2,OO,Precise,Road,Driving,Unkn,3+,1,Near
+578,2001,8,Lyell Highway,-42.15454,145.90968,O,3,OO,Approx,Road,Driving,Night,1,1,Far
+581,2001,NA,Morningside Bridge,-41.89352,147.41681,O*,2,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+584,1988,NA,Lake Leonis,-41.81753,146.17279,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+585,2000,3,Bronte Lagoon,-42.20783,146.5034,O,4,OO,Approx,Bush,Walking,Day,1,1,Far
+588,2000,5,Cradle Link Rd,-41.58917,145.93437,O*,2,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+589,1953,NA,The Sideling,-41.26714,147.39685,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+591,1975,NA,Adamsfield,-42.71026,146.28264,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+592,1940,4,Allison's Tier,-41.82241,146.52587,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+593,1940,NA,Northern Tasmania,-41.34263,146.53202,C*,3,EO,Broad,Bush,Walking,Day,2,1,Near
+594,1970,10,Petal point,-40.78143,147.96184,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+595,1970,5,Weld Hill,-41.13843,147.88471,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+596,1994,11,Oatlands,-42.30274,147.36703,O*,1,OO,Approx,Bush,Walking,Day,1,1,Near
+597,1993,NA,St Helens,-41.34684,148.26264,O,4,OO,Approx,Road,Driving,Night,1,3+,Near
+598,1991,5,Cradle Link Rd,-41.58917,145.93437,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+599,1999,4,Forth,-41.1898,146.2503,O,3,OO,Approx,Bush,Walking,Night,1,1,Near
+600,1983,1,Moina,-41.53253,146.0674,O,3,OO,Approx,Road,Driving,Day,1,1,Far
+601,1995,3,Pipers Brook,-41.08407,147.18298,O,1,OO,Approx,Road,Driving,Night,2,1,Near
+602,1984,NA,Montagu River,-40.86821,144.90554,O,5,OO,Approx,Road,Walking,Day,1,1,Near
+603,1983,12,Black River,-40.85557,145.30613,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+604,1985,NA,West Calder,-41.11897,145.61908,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+605,1986,NA,Zeehan-Strahan Rd,-42.028856,145.26534,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+606,1990,3,Mt Saddleback,-41.38785,147.76051,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+607,1982,NA,Golden Valley,-41.63904,146.71637,O,5,OO,Approx,Road,Driving,Day,1,1,Near
+608,1984,12,Pyengana,-41.28954,148.00465,S,3,EO,Approx,Road,Walking,Night,1,1,Near
+609,1987,NA,Cradle Link Rd,-41.58917,145.93437,O,5,OO,Approx,Road,Driving,Day,3+,1,Far
+610,1985,NA,Billycock Ranges,-41.17339,147.76905,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+611,1942,NA,Balfour,-41.26365,144.88296,OI,4,OI,Approx,Bush,Walking,Night,1,2,Far
+612,1980,NA,London Lakes,-42.18851,146.52584,OI,3,OI,Approx,Bush,Walking,Day,3+,1,Near
+613,1998,1,Pioneer,-41.08442,147.92813,O,5,OO,Approx,Bush,Walking,Day,1,1,Far
+614,1980,NA,Derby,-41.14608,147.80167,O,4,OO,Approx,Bush,Walking,Night,1,1,Near
+615,1981,NA,Silver Lake,-41.88966,146.36584,SI,3,EI,Approx,Bush,Walking,Day,1,1,Near
+616,1969,12,Breona,-41.78474,146.7038,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+617,1975,NA,Deep Creek [flows into Duck River],-40.86702,145.17647,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+618,1935,NA,Butlers Gorge,-42.28094,146.2924,S,5,EO,Approx,Bush,Walking,Night,2,2,Near
+619,1970,NA,Mawbanna,-40.9665,145.35767,O,4,OO,Approx,Bush,Walking,Night,1,1,Near
+620,1964,NA,Mayberry,-41.5651,146.30298,O,4,OO,Approx,Bush,Walking,Night,3+,1,Far
+621,1913,NA,West Montagu,-40.78157,144.90197,C,3,PS,Approx,Bush,Walking,Day,1,1,Near
+622,1954,2,Pioneer,-41.08442,147.92813,K*,5,EO,Approx,Bush,Walking,Day,2,1,Near
+623,1971,6,Waddamana,-42.18935,146.84233,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+624,1975,NA,Mawbanna,-40.9665,145.35767,O,2,OO,Approx,Bush,Walking,Day,2,3+,Near
+625,1985,3,Preeces Marsh,-42.03601,147.12084,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+626,1983,NA,Arthurs Lake,-42.03444,146.89765,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+627,1985,NA,Brandum Bay,-41.81555,146.675,O*,2,OO,Approx,Bush,Walking,Day,1,1,Near
+628,1989,NA,Lorinna,-41.5458,146.14219,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Near
+629,1989,NA,Cradle Link Rd,-41.55668,145.926368,O,3,OO,Approx,Road,Driving,Unkn,3+,1,Unkn
+630,2002,NA,Ringarooma River,-41.08057,147.94524,O,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+631,2011,3,Farm Cove,-42.34994,145.48203,O*,2,OO,Broad,Bush,Walking,Day,2,1,Far
+632,2005,12,Gladstone-Tomahawk turnoff,-40.91515,147.77467,O,5,OO,Approx,Road,Driving,Day,2,1,Far
+633,2004,2,North East,-41.34602,147.77863,O,3,OO,Broad,Road,Driving,Night,2,1,Near
+634,2003,8,Smithton,-40.93798,145.06411,O,5,OO,Approx,Road,Driving,Day,1,1,Near
+635,2002,2,Mt William NP,-40.93632,148.25348,O,1,OO,Approx,Bush,Walking,Day,1,1,Near
+636,2001,9,North West,-41.11541,144.9838,O,1,OO,Broad,Road,Driving,Day,2,1,Unkn
+637,1925,NA,Adamsfield,-42.71924,146.3249,S,5,EO,Approx,Bush,Walking,Night,3+,1,Near
+638,1932,NA,Iron Store,-42.1652,145.66805,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+639,1939,5,Scopus,-40.8205,144.99935,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+640,1939,NA,Arthur & Salmon Rivers,-41.07203,144.81414,S,5,EO,Approx,Bush,Walking,Unkn,3+,3+,Unkn
+641,1951,7,Lake Rhona,-42.55116,146.28811,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+643,1941,4,Mt Misery,-42.96972,147.00799,OI,4,OI,Approx,Bush,Walking,Night,1,2,Far
+644,1946,NA,Clear Hill,-42.68288,146.27149,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+646,1953,12,Middlesex,-41.54332,145.98287,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+647,2010,NA,South Mount Cameron,-41.01353,147.96379,O,3,OO,Approx,Bush,Walking,Day,1,1,Near
+650,1927,NA,Lake St Clair,-42.11671,146.17776,S,5,EO,Approx,Bush,Walking,Day,1,2,Near
+651,1927,NA,Lake St Clair,-42.11671,146.17776,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+652,1930,NA,Adamsfield,-42.72345,146.35405,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+653,2017,4,Launceston,-41.49809,147.0997,O*,3,OO,Approx,Road,Driving,Night,1,1,Near
+654,2017,1,Deep Gully Forest Reserve,-41.39047,145.54413,O*,1,OO,Approx,Road,Driving,Day,1,1,Far
+655,2016,6,Kenzies Hill,-41.53873,146.33146,O*,1,OO,Approx,Road,Driving,Day,1,1,Near
+656,2015,5,Dawson Rd,-42.51179,146.64132,O*,1,OO,Approx,Bush,Walking,Unkn,1,1,Near
+658,1995,NA,Elderslie,-42.62285,147.06954,O*,1,OO,Approx,Bush,Walking,Day,Unkn,1,Near
+659,2015,6,Bellbuoy Beach,-41.05467,146.84268,O*,1,OO,Approx,Bush,Walking,Day,1,1,Near
+661,1945,NA,Mt Dipwood,-41.05071,145.43267,S,5,EO,Approx,Bush,Walking,Unkn,1,2,Near
+664,1965,11,Hellyer Gorge,-41.28411,145.60398,O,5,OO,Approx,Road,Driving,Unkn,1,3+,Near
+667,1962,NA,Whyte River,-41.40754,145.45166,SI,5,EI,Approx,Bush,Walking,Day,1,3+,Near
+668,1965,NA,Whyte River,-41.40754,145.45166,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+669,1945,NA,Romney Marsh,-41.52705,145.66157,S,5,EO,Approx,Bush,Walking,Unkn,1,2,Near
+670,1919,NA,Port Davey,-43.23149,145.97077,K,3,PS,Approx,Bush,Walking,Day,2,1,Near
+671,1930,NA,Welcome Swamp,-40.95052,144.7968,S,5,EO,Approx,Bush,Walking,Unkn,3+,1,Unkn
+672,1939,NA,Mt Anne,-42.94424,146.42169,O,5,OO,Approx,Bush,Walking,Night,2,1,Near
+673,1949,NA,Western Bluff,-41.63381,146.28631,O,5,OO,Approx,Bush,Walking,Day,2,1,Near
+674,1954,2,Highland Lakes Rd,-41.63904,146.71637,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+675,1986,NA,Nunamara-Lilydale Rd,-41.33661,147.19623,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+676,1973,NA,Arthur River,-41.05263,144.66732,O*,2,OO,Approx,Bush,Walking,Night,1,1,Near
+677,1928,NA,Adamsfield-Maydena track,-42.71924,146.3249,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+678,1925,NA,"""Stonehurst""",-42.5256,147.78217,S,5,EO,Precise,Bush,Walking,Day,2,1,Near
+679,1916,NA,Blue Tier,-41.20052,148.00412,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+680,1941,NA,Hellyer River,-41.37847,145.67641,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+681,1942,9,Waratah,-41.46843,145.35248,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+682,1980,NA,Big Plain,-41.55054,146.47463,O,3,OO,Approx,Bush,Walking,Day,1,1,Far
+683,1913,NA,Waratah,-41.44451,145.53322,K*,3,EO,Approx,Bush,Walking,Unkn,1,1,Near
+684,1926,NA,Waratah,-41.44451,145.53322,K*,3,EO,Approx,Bush,Walking,Unkn,1,1,Near
+685,1929,NA,Blessington,-41.49334,147.43202,K*,3,EO,Approx,Bush,Walking,Unkn,1,1,Near
+686,1923,9,Adamsfield,-42.71924,146.3249,C,5,PS,Approx,Bush,Walking,Day,1,1,Near
+691,1912,NA,Black River,-40.86182,145.32864,K*,5,EO,Approx,Bush,Walking,Day,2,1,Near
+692,1938,NA,Point Hibbs,-42.60374,145.295,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Near
+693,1941,NA,Mt Misery,-42.96972,147.00799,S,5,EO,Approx,Bush,Walking,Night,1,2,Near
+694,1945,NA,The Gardens,-41.1671,148.28382,K*,4,EO,Approx,Bush,Walking,Unkn,1,1,Near
+695,1947,NA,Eastern Tiers,-42.18377,147.65087,O*,2,OO,Approx,Bush,Walking,Day,3+,1,Far
+696,1948,NA,Hellyer Gorge ,-41.21923,145.57138,S,5,EO,Approx,Road,Walking,Night,1,2,Near
+697,1948,NA,Burnie,-41.05541,145.9043,O*,4,OO,Approx,Bush,Walking,Unkn,1,1,Near
+698,1952,12,Prince of Wales Range,-42.48882,146.06954,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+699,1953,1,Adamsfield,-42.72691,146.34163,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+700,1957,4,Little Waterhouse Lake,-40.87203,147.61281,O,4,OO,Approx,Bush,Walking,Day,3+,1,Near
+701,1957,NA,Aberfoyle Mine,-41.65334,147.7559,O,5,OO,Approx,Road,Driving,Night,1,1,Near
+702,1959,2,Arthur River,-41.05263,144.66732,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+703,1959,NA,Alster Green Bridge,-41.0992,145.43821,OI,3,OI,Approx,Bush,Driving,Night,2,3+,Far
+704,1959,NA,George Town Airport,-41.08097,146.84006,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Near
+705,1961,NA,George Town,-41.07107,146.81665,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+706,1964,12,Pipers River,-41.15625,147.09721,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+707,1965,1,Brandum Bay,-41.81555,146.675,O*,1,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+708,1965,4,Mole Creek,-41.64185,146.3923,S,4,EO,Approx,Bush,Walking,Night,1,1,Near
+709,1965,6,Saxons Creek,-41.28222,146.72603,O,4,OO,Approx,Road,Driving,Night,1,1,Unkn
+710,1966,1,Mt Achilles,-41.83781,145.96007,O*I,2,OI,Approx,Bush,Walking,Night,3+,2,Far
+711,1966,3,Low Head,-41.07419,146.80653,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Near
+712,1966,11,Little Pipers River,-41.02683,147.2314,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+713,1967,3,Deddington,-41.60228,147.41688,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+714,1967,4,St Peters Pass,-42.24224,147.40423,O,4,OO,Approx,Bush,Walking,Unkn,2,1,Near
+715,1967,6,Great Lake,-41.78659,146.702,S,3,EO,Approx,Bush,Walking,Day,1,1,Unkn
+716,1967,9,Beechford,-41.03597,146.9388,O,3,OO,Approx,Bush,Walking,Night,1,1,Unkn
+718,1970,NA,Richmond,-42.74655,147.41854,O*,3,OO,Approx,Road,Driving,Day,2,1,Near
+719,1970,NA,Lake Augusta,-41.86421,146.49932,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+720,1970,NA,Bridgenorth,-41.01839,147.40305,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+721,1971,12,Eastburn [property name] [Faulkners Estate],-41.81163,147.61793,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+722,1971,NA,Waterfall Creek,-41.22929,147.21076,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+723,1971,NA,Lietinna,-41.15812,147.46306,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+724,1972,4,Western Tiers,-41.74996,146.58128,SI,3,EI,Approx,Bush,Walking,Day,2,1,Near
+725,1973,3,Epping Forest,-41.763,147.35373,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+726,1974,7,East Tamar Hwy,-41.23964,147.00781,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+727,1975,NA,Cluan Tier,-41.6508,146.79834,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+728,1975,NA,Stitt River bridge,-41.78201,145.5404,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+729,1976,1,Lady Nelson Creek bridge,-41.33001,147.07803,O,3,OO,Approx,Road,Driving,Day,1,1,Unkn
+730,1976,2,Wingys Tier,-42.01761,147.20267,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+732,1977,NA,St Marys Pass,-41.54539,148.22258,O,3,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+733,1978,2,Midlands Highway,-41.61368,147.22342,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+734,1978,2,Reedy Marsh (in State Forest),-41.4599,146.7177,O,3,OO,Approx,Bush,Walking,Night,2,1,Near
+735,1978,4,Conara,-41.79204,147.45361,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+736,1978,10,Batman Bridge,-41.21837,146.91355,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+737,1979,5,The Sideling,-41.2669,147.401,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+738,1979,7,Lake Leake Highway,-41.99073,147.70947,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+739,1979,11,The Sideling ,-41.25766,147.43029,O,3,OO,Approx,Road,Driving,Day,2,1,Near
+740,1979,11,Esk Highway,-41.57821,148.14434,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+741,1980,1,Castra Rivulet Waterfalls,-41.35832,146.09148,O*I,1,OI,Approx,Bush,Walking,Night,1,2,Near
+742,1980,2,Pipers River &  Weymouth,-41.13799,147.18721,O,4,OO,Approx,Road,Driving,Day,3+,1,Near
+743,1980,6,Forester,-41.06587,147.68395,O*,2,OO,Approx,Road,Driving,Day,1,1,Near
+744,1980,7,Mt Direction,-41.19761,147.02216,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+745,1980,12,Friendly Beaches,-42.00113,148.24849,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+746,1980,10,Lilydale,-41.29075,147.20601,O,4,OO,Approx,Road,Driving,Night,1,2,Near
+748,1981,12,Dip Falls Rd,-41.04069,145.36737,O,5,OO,Approx,Road,Driving,Day,2,1,Near
+749,1982,NA,Hellyer Gorge,-41.28411,145.60398,O,3,OO,Approx,Bush,Walking,Day,3+,1,Near
+750,1983,4,George Town,-41.11865,146.84015,O*,3,OO,Approx,Road,Driving,Day,1,1,Near
+751,1983,5,West Tamar,-41.25882,146.91096,O*,1,OO,Approx,Road,Driving,Night,2,1,Near
+752,1984,4,South Mount Cameron,-41.01381,147.96362,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+753,1984,5,White Gum Reserve,-41.41052,147.97309,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+754,1984,5,Ring River,-41.81655,145.464,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+755,1987,1,Pipeline Rd,-41.28148,145.31983,O,3,OO,Approx,Road,Driving,Day,1,1,Near
+756,1987,NA,Midland Valley,-42.01379,147.49199,O*,3,OO,Broad,Road,Driving,Day,1,1,Far
+757,1989,1,Cradle Mountain,-41.58917,145.93437,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+758,1989,12,Gladstone,-40.95998,148.00958,O*,1,OO,Approx,Road,Driving,Night,2,1,Near
+759,1989,NA,Mersey Lea,-41.3706,146.47355,O,3,OO,Approx,Road,Driving,Unkn,1,1,Near
+760,1990,5,Nunamara,-41.37068,147.29875,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+761,1990,5,Kellys Lookout,-41.30395,146.7756,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+762,1991,12,Strowan,-41.71714,147.37798,O,4,OO,Precise,Bush,Walking,Day,2,1,Far
+763,1994,NA,Cuckoo,-41.20787,147.57467,O,3,OO,Approx,Bush,Walking,Day,2,1,Near
+764,1995,NA,Preolenna,-41.08843,145.57781,O,3,OO,Approx,Road,Driving,Night,3+,1,Near
+765,1995,2,Western Tiers,-41.7774,146.7119,O*,1,OO,Approx,Bush,Walking,Night,1,1,Far
+766,1997,10,Tullah,-41.73967,145.61492,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+767,1997,12,Weymouth Rd,-41.0815,147.09331,O,3,OO,Approx,Road,Driving,Day,3+,1,Near
+768,1998,7,Westbury,-41.56874,146.7238,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+769,2000,3,Mt William NP,-40.93632,148.25348,O,4,OO,Approx,Bush,Driving,Day,3+,2,Far
+770,1996,NA,Ben Lomond,-41.56573,147.66182,O,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+771,1977,9,Swansea,-42.13378,148.07115,O,2,OO,Approx,Bush,Walking,Day,1,1,Near
+772,1965,NA,Nelson Bay River,-41.12977,144.68828,S,3,EO,Approx,Bush,Walking,Day,1,3+,Near
+773,1968,NA,Mt Holloway,-41.41248,145.02166,SI,3,EI,Approx,Bush,Walking,Night,1,2,Far
+774,1966,NA,Liena,-41.55703,146.22446,O*,2,OO,Approx,Bush,Walking,Unkn,3+,1,Unkn
+775,1967,NA,Liena,-41.55703,146.22446,O*,2,OO,Approx,Bush,Walking,Unkn,3+,1,Unkn
+776,1962,NA,Pieman River,-41.66531,144.92825,O*I,2,OI,Approx,Bush,Walking,Night,3+,2,Far
+777,1960,NA,Wedge plain,-42.85163,146.21764,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+778,1968,NA,Arthurs Peak,-43.18639,147.9149,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+779,1962,NA,Cardigan River,-42.12583,145.83306,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+781,1969,NA,Mawbanna,-40.93726,145.3433,O*,2,OO,Approx,Road,Driving,Unkn,2,1,Unkn
+782,1970,NA,Crayfish Creek,-40.85239,145.36667,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+783,1968,NA,Mawbanna,-40.9665,145.35767,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+784,1940,NA,Dip River,-41.03526,145.37679,O*,4,OO,Approx,Bush,Walking,Night,1,1,Near
+785,1943,NA,Dip River,-41.03526,145.37679,C*,4,EO,Approx,Bush,Walking,Day,1,1,Near
+786,1967,NA,Crayfish Creek,-40.85239,145.36667,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+787,1967,NA,Beechford,-41.03597,146.9388,O,3,OO,Approx,Bush,Walking,Day,3+,1,Unkn
+788,1932,NA,Black Bluff,-41.45238,145.95455,C*,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+789,1971,NA,Mangos Bay,-42.48704,145.25451,O*,2,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+790,1972,8,Hellyer River,-41.39467,145.66008,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+791,1956,NA,Diddleum Plains,-41.32944,147.44241,O,5,OO,Approx,Road,Driving,Unkn,2,1,Near
+792,1965,NA,Cape Grim,-40.68297,144.69007,O,5,OO,Approx,Bush,Walking,Day,1,1,Unkn
+793,1963,NA,Mathinna,-41.39949,147.80583,O*,2,OO,Approx,Bush,Walking,Day,1,1,Near
+794,1972,11,Friendly Beaches,-41.99341,148.24944,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+795,1964,10,Lune River Road,-43.42691,146.90571,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+796,1969,8,Evandale,-41.57242,147.26773,O,1,OO,Approx,Road,Driving,Day,1,1,Near
+797,1935,NA,Lake Furmage,-41.75294,146.48677,S,5,EO,Approx,Bush,Walking,Day,1,3+,Near
+798,1969,3,Lake Echo,-42.15619,146.60644,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+799,1972,11,Jinglers Creek,-41.50174,147.17361,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+800,1971,NA,Kerry Lodge Bridge,-41.49434,147.18162,C*,4,EO,Approx,Bush,Walking,Day,3+,1,Near
+801,1972,NA,Breadalbane,-41.52232,147.18025,O,2,OO,Approx,Bush,Walking,Day,1,1,Near
+802,1970,12,Minnow River,-41.45831,146.35509,O,4,OO,Approx,Road,Walking,Day,1,1,Unkn
+803,1972,NA,St Helens-Gladstone Rd,-41.27544,148.12239,O,3,OO,Approx,Road,Driving,Night,3+,1,Far
+804,1970,NA,Launceston,-41.43327,147.14408,O,4,OO,Approx,Road,Driving,Night,3+,1,Near
+805,1919,NA,Walls of Jerusalem,-41.90178,146.25172,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+806,1934,NA,Mawbanna,-40.9665,145.35767,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+807,1972,2,Takone,-41.17882,145.49292,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+808,1972,NA,Cuckoo Valley,-41.20787,147.57467,O,1,OO,Approx,Road,Driving,Day,2,1,Near
+809,1926,NA,Forest,-40.83571,145.23243,K*,5,EO,Approx,Bush,Walking,Night,2,1,Near
+810,1969,NA,Arthur River,-41.05263,144.66732,O*,3,OO,Approx,Bush,Walking,Day,1,1,Far
+811,1971,12,Pipeline Rd,-41.28148,145.31983,O*,3,OO,Approx,Road,Driving,Night,2,1,Near
+812,1972,1,Mawbanna,-40.9665,145.35767,O*,2,OO,Approx,Road,Driving,Night,2,1,Far
+813,1953,NA,Little Henty River,-41.94856,145.19568,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+814,1923,NA,Mt La Perouse,-43.50089,146.73828,S,5,EO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+815,1947,NA,Longback,-41.5426,145.09463,S,5,EO,Approx,Bush,Walking,Day,3+,1,Unkn
+816,1947,NA,Donaldson River,-41.59143,145.05856,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Far
+817,1970,1,Montagu River,-40.94092,144.87362,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+818,1970,9,Togari,-40.9393,144.88213,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+819,1972,NA,Diddleum Rd,-41.32635,147.49934,O,2,OO,Approx,Road,Driving,Night,3+,1,Near
+820,1955,12,Mt Barrow,-41.36475,147.39499,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+821,1988,12,Central Highlands,-41.86082,146.58744,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+822,1962,9,Coles Bay,-42.0832,148.23611,O,1,OO,Approx,Road,Driving,Night,1,1,Near
+823,1958,NA,Friendly Beaches,-42.00113,148.24849,O,5,OO,Approx,Bush,Walking,Unkn,1,2,Unkn
+824,1962,2,Coles Bay,-42.1348,148.30305,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+825,1966,1,Hartz Mountains,-43.24378,146.76654,O,3,OO,Approx,Road,Driving,Day,3+,1,Near
+826,1968,5,Cradle Mountain,-41.58917,145.93437,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+827,1966,NA,Cradle Mountain,-41.58917,145.93437,O,2,OO,Approx,Bush,Walking,Day,1,1,Near
+828,1968,10,Ansons Bay,-41.04439,148.23799,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+829,1967,NA,St Helens-Gladstone Rd,-41.27544,148.12239,O*,1,OO,Approx,Road,Driving,Unkn,2,1,Unkn
+830,1970,2,Exton,-41.52055,146.73508,O,1,OO,Approx,Road,Driving,Night,1,1,Unkn
+831,1973,3,Little Pipers River,-40.99845,147.20634,O,5,OO,Approx,Bush,Walking,Night,3+,1,Far
+832,1970,NA,West Coast,-42.06122,145.25448,O,5,OO,Broad,Bush,Walking,Night,1,1,Near
+833,1978,5,Deloraine,-41.52569,146.65818,O*I,1,OI,Approx,Bush,Walking,Day,1,1,Near
+834,1979,7,The Sideling,-41.25766,147.43029,O,2,OO,Approx,Road,Driving,Unkn,2,1,Near
+835,1973,3,Pipers River-Bridport,-41.08181,147.13225,O,5,OO,Approx,Road,Driving,Night,1,1,Far
+837,1978,2,Myrtle Park,-41.31998,147.36356,O,1,OO,Approx,Road,Driving,Night,3+,1,Near
+838,1976,10,Double Cove,-42.33972,145.33511,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+839,1977,2,Black River,-40.85239,145.36667,O,3,OO,Approx,Road,Driving,Night,2,1,Unkn
+840,1974,4,Rosebery,-41.78097,145.58447,O,4,OO,Approx,Road,Driving,Night,3+,1,Near
+841,1983,8,Sheffield,-41.38476,146.33149,O*I,2,OI,Approx,Bush,Driving,Day,2,1,Near
+842,1989,8,West Frankford,-41.31612,146.70725,O,2,OO,Approx,Road,Driving,Day,2,1,Far
+843,1991,5,Panama State Forest,-41.20167,147.30328,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+845,1983,NA,Dilston-Turners Marsh,-41.30912,147.10335,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+846,1989,NA,Tomahawk-Gladstone,-40.92936,147.81968,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+847,1958,NA,Butlers Gorge,-42.31398,146.41751,S,5,EO,Approx,Road,Driving,Day,2,1,Near
+848,1996,2,Cape Sorell,-42.19787,145.16973,O,4,OO,Approx,Road,Walking,Day,2,1,Far
+849,1997,3,Wynyard,-41.05604,145.74322,S,5,EO,Approx,Road,Driving,Day,2,1,Far
+850,1983,NA,Mole Creek,-41.55654,146.40325,O,5,OO,Approx,Road,Driving,Unkn,1,1,Near
+851,1979,9,Western Tiers,-41.74996,146.58128,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+852,1990,1,Panama State Forest,-41.20167,147.30328,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+853,1996,3,Travellers Rest,-41.51895,147.09859,O,2,OO,Approx,Road,Driving,Night,2,1,Near
+854,1973,1,Temma,-41.22898,144.6863,O,3,OO,Approx,Bush,Walking,Day,1,1,Near
+855,1972,1,Queenstown-Strahan Rd,-42.15579,145.44573,O,2,OO,Approx,Road,Driving,Night,3+,1,Near
+856,1974,NA,Fingal,-41.63835,147.96964,O*,1,OO,Approx,Bush,Walking,Night,1,1,Near
+857,1979,7,Central Highlands,-41.86082,146.58744,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+858,1983,1,Western Tiers,-41.74996,146.58128,O,3,OO,Approx,Road,Driving,Night,1,2,Far
+859,1972,3,Middlesex Plains,-41.54332,145.98287,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+860,1972,4,Granville Harbour,-41.74846,145.10499,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+861,1969,2,Lewis River,-42.95003,145.54816,S,4,EO,Approx,Bush,Walking,Unkn,3+,1,Near
+862,1970,11,Luina,-41.46707,145.38461,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+863,1955,NA,Beulah,-41.45089,146.37843,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+864,1972,NA,Hellyer Gorge,-41.28411,145.60398,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+865,1972,NA,Trowutta,-41.06811,145.09046,S,3,EO,Approx,Bush,Walking,Day,3+,1,Far
+866,1985,5,Murchison Highway,-41.56461,145.68213,S,5,EO,Broad,Road,Driving,Night,1,1,Near
+867,1983,NA,West Coast,-42.06122,145.25448,S,5,EO,Broad,Bush,Walking,Night,1,1,Near
+868,1968,9,Lachlan,-42.82975,147.04268,S,4,EO,Approx,Bush,Walking,Night,1,1,Near
+869,1966,NA,Glenfern,-42.80922,146.99663,S,3,EO,Approx,Bush,Walking,Night,1,1,Near
+870,1973,NA,South Preston,-41.35672,146.05985,O,3,OO,Approx,Road,Driving,Day,1,1,Near
+871,1969,1,Mathinna,-41.52524,147.79078,O,3,OO,Approx,Bush,Walking,Night,3+,1,Near
+872,1970,12,Lake Lea,-41.51882,145.91054,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+873,1970,9,Meunna,-41.0796,145.50509,O,4,OO,Approx,Bush,Walking,Night,3+,1,Unkn
+874,1970,12,Meunna,-40.85239,145.36667,O*I,2,OI,Approx,Bush,Walking,Day,2,1,Near
+875,1965,NA,Great Lake,-41.98078,146.72157,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+876,1965,NA,Henty River,-41.99392,145.47139,K*,3,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+877,1971,NA,Mawbanna,-40.9665,145.35767,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+878,1960,NA,Henty River,-41.99392,145.47139,O,3,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+879,1971,NA,St Marys,-41.57955,148.09993,O*,1,OO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+880,1960,NA,Adamsfield,-42.71924,146.3249,O*,1,OO,Approx,Bush,Walking,Night,1,1,Near
+881,1965,NA,Priory,-41.29263,148.21575,O,3,OO,Approx,Bush,Walking,Night,1,1,Near
+882,1970,NA,Bonneys Plains,-41.78881,147.62312,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+883,1966,NA,Gray,-41.6415,148.22104,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+884,1967,NA,Gray,-41.6415,148.22104,O,3,OO,Approx,Road,Driving,Night,1,2,Near
+885,1968,NA,Ben Lomond,-41.56573,147.66182,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+887,1971,11,Rossarden,-41.64155,147.60154,O,4,OO,Approx,Road,Walking,Night,1,1,Near
+888,1969,NA,Avoca,-41.78138,147.72193,O,3,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+889,1947,NA,North East,-41.71323,147.83794,C*,5,EO,Broad,Bush,Walking,Day,2,1,Near
+891,1962,NA,Evercreech Forest Reserve,-41.40168,147.97247,O,3,OO,Approx,Bush,Walking,Unkn,3+,2,Unkn
+892,1969,NA,Binalong Bay,-41.24863,148.29484,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+893,1970,NA,Rossarden,-41.64155,147.60154,O*,1,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+894,1945,NA,Mt Young,-41.36004,147.95003,K*,5,EO,Approx,Bush,Walking,Day,2,1,Near
+895,1964,NA,Royal George,-41.84829,147.88876,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+896,1965,NA,Ben Lomond,-41.56573,147.66182,K*,3,EO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+897,1969,NA,Bicheno,-41.85124,148.26312,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+898,1969,NA,Fingal,-41.76063,147.83954,O,3,OO,Approx,Bush,Walking,Day,2,1,Far
+899,1972,NA,Ormley,-41.72183,147.8271,O,2,OO,Approx,Bush,Walking,Unkn,1,1,Near
+900,1969,NA,Tower Hill Rd,-41.57036,147.90962,K*,3,EO,Approx,Bush,Walking,Unkn,Unkn,1,Unkn
+901,1963,NA,Woolnorth,-40.71422,144.73783,SI,5,EI,Approx,Bush,Walking,Day,3+,1,Near
+902,1964,5,Glen Huon,-43.02519,146.95824,S,4,EO,Approx,Bush,Walking,Day,1,2,Near
+903,1955,NA,Mt Lloyd,-42.83086,146.94704,S,4,EO,Approx,Bush,Walking,Day,1,1,Far
+904,1963,12,Catamaran,-43.55321,146.88431,S,3,EO,Approx,Road,Driving,Unkn,1,1,Unkn
+905,1947,NA,Jane River Track,-42.27952,145.90966,SI,5,EI,Approx,Bush,Walking,Day,2,1,Near
+906,1937,NA,South Gordon Track,-42.83199,146.27675,OI,4,OI,Approx,Bush,Walking,Night,3+,2,Far
+907,1958,1,Mt Solitary,-43.15176,146.10406,SI,5,EI,Precise,Bush,Walking,Day,1,1,Near
+908,1983,12,Mole Creek,-41.55654,146.40325,S,3,EO,Approx,Bush,Walking,Night,2,1,Near
+910,2001,7,The Sideling,-41.25766,147.43029,O,1,OO,Approx,Road,Driving,Night,1,1,Near
+912,1999,12,Pyengana,-41.28954,148.00465,O,4,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+913,1999,1,Arthurs Lake,-42.03444,146.89765,O*,1,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+914,1998,12,Pyengana,-41.27108,147.97019,O,4,OO,Approx,Road,Driving,Unkn,3+,1,Near
+915,1998,10,Tullah,-41.73967,145.61492,O,1,OO,Approx,Road,Driving,Unkn,2,1,Near
+919,1995,NA,Studland Bay,-40.75143,144.70546,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+920,1959,11,Ironstone Creek,-43.0401,147.05188,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+921,1945,NA,Coles Bay Rd,-42.03376,148.22431,O,4,OO,Approx,Road,Driving,Night,1,1,Unkn
+922,1960,NA,Bally's Peak,-42.06298,146.52359,S,4,EO,Approx,Road,Driving,Day,2,1,Near
+923,2002,6,Circular Head,-40.81164,145.25655,O,5,OO,Approx,Road,Driving,Night,1,1,Near
+924,2005,7,Arthurs Lake,-42.03444,146.89765,O*I,2,OI,Approx,Bush,Walking,Day,2,1,Near
+925,1942,NA,Stitt River bridge,-41.78201,145.5404,O,5,OO,Approx,Road,Walking,Day,1,1,Near
+926,1949,4,Mountain River,-42.94243,147.12849,O,5,OO,Approx,Bush,Walking,Night,3+,1,Unkn
+927,1949,2,New River,-43.46722,146.55611,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+928,1949,3,Mountain River,-42.94243,147.12849,O*,1,OO,Approx,Bush,Walking,Night,1,1,Near
+929,1957,1,Birthday Bay,-42.43838,145.25179,O,2,OO,Approx,Unkn,Driving,Day,2,1,Far
+930,1989,NA,South West,-43.26632,146.07484,O,5,OO,Broad,Bush,Walking,Day,1,1,Near
+931,1953,1,Lake Pedder,-42.93428,146.2007,O*I,1,OI,Approx,Bush,Walking,Day,1,1,Near
+932,1949,NA,Bathurst Range,-43.29185,146.27787,S,4,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+933,1951,NA,Arthur River,-41.05263,144.66732,S,4,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+934,1945,NA,Mt Anne,-42.89971,146.48614,SI,5,EI,Approx,Bush,Walking,Day,2,2,Near
+935,1946,5,Nabowla,-41.16061,147.36868,OI,4,OI,Approx,Bush,Walking,Night,1,2,Far
+936,1941,NA,Gum Ridge,-42.45027,146.00386,S,5,EO,Approx,Bush,Walking,Night,2,1,Near
+937,1997,8,North West,-41.23176,144.69192,O,5,OO,Broad,Bush,Walking,Day,1,1,Near
+938,1959,6,Woolnorth,-40.71422,144.73783,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+939,1960,2,Welcome Heath,-40.74654,144.74974,O,5,OO,Approx,Road,Driving,Night,3+,1,Near
+940,1962,NA,Old Road gates,-40.95095,144.80529,O,5,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+941,1958,NA,Walls of Jerusalem,-41.90178,146.25172,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+942,1985,NA,Port Davey,-43.23149,145.97077,S,5,EO,Approx,Bush,Walking,Day,1,3+,Unkn
+943,1960,NA,Coles Bay,-42.0832,148.23611,K*,3,EO,Approx,Bush,Walking,Day,1,1,Near
+944,1949,NA,Great Lake,-41.98876,146.64638,O,2,OO,Approx,Bush,Walking,Unkn,2,1,Unkn
+945,1961,NA,Walls of Jerusalem,-41.90178,146.25172,SI,5,EI,Approx,Bush,Walking,Night,1,1,Far
+946,1937,NA,Lake Country,-41.87168,146.83211,S,5,EO,Broad,Bush,Walking,Unkn,3+,3+,Unkn
+947,1964,NA,Calm Bay,-40.79003,144.70629,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+948,1963,10,Queenstown-Strahan Rd,-42.15579,145.44573,O*,2,OO,Approx,Road,Driving,Night,1,1,Near
+949,1965,2,Tarraleah,-42.27933,146.45474,O,4,OO,Approx,Road,Driving,Night,1,1,Unkn
+950,1958,1,Nubeena,-43.09769,147.74386,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+951,1979,7,Ulverstone,-41.16646,146.19067,O,3,OO,Approx,Road,Driving,Day,1,1,Near
+952,1968,4,Great Lake,-41.98078,146.72157,OI,4,OI,Approx,Bush,Walking,Day,2,1,Near
+953,1973,11,Hellyer Gorge,-41.28411,145.60398,K*,4,EO,Approx,Road,Driving,Night,2,1,Near
+954,1977,2,Black River,-40.85355,145.29098,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+955,1970,8,Ulverstone,-41.36277,146.45268,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+956,1977,7,Port Latta,-40.8561,145.38607,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+957,1977,6,Port Latta,-40.8561,145.38607,OI,3,OI,Approx,Bush,Walking,Night,1,2,Far
+958,2001,2,Great Lake,-41.73946,146.83261,O,2,OO,Approx,Bush,Walking,Night,2,1,Near
+959,1985,NA,Lorinna,-41.5458,146.14219,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+961,1956,NA,Edith Creek,-40.95327,145.10086,S,4,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+962,1978,4,Upper Blessington,-41.47512,147.54045,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+963,1973,9,Great Lake,-41.97871,146.65501,O*,1,OO,Approx,Road,Driving,Night,2,1,Near
+964,1926,NA,Lake Lea,-41.51882,145.91054,C*,5,EO,Approx,Bush,Walking,Day,1,2,Near
+965,1969,1,Heazlewood River,-41.47174,145.30772,O*I,1,OI,Approx,Bush,Walking,Day,1,1,Near
+966,1967,NA,Mt Lindsay,-41.71111,145.30587,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+967,1977,8,Lyell Highway,-42.16279,145.92755,S,5,EO,Broad,Road,Driving,Night,1,1,Near
+968,1922,NA,Trowutta/Marrawah,-40.98083,144.88306,S,5,EO,Approx,Bush,Walking,Night,1,1,Near
+969,1990,NA,London Lakes,-42.18851,146.52584,OI,3,OI,Approx,Bush,Walking,Night,1,1,Near
+970,1983,12,No location given,NA,NA,O*I,2,OI,Unkn,Bush,Walking,Night,1,2,Far
+971,1979,7,Hellfire Bluff,-42.73773,147.87988,O,4,OO,Approx,Bush,Walking,Night,3+,2,Near
+972,1975,NA,Wielangta,-42.67761,147.88336,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+973,1989,4,Sisters Hills,-40.91306,145.51411,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+974,1987,NA,Queenstown-Strahan Rd,-42.15579,145.44573,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+975,1978,NA,Queenstown-Strahan Rd,-42.15579,145.44573,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+976,1973,NA,Queenstown-Strahan Rd,-42.15579,145.44573,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+977,1981,2,Low Rocky Point,-40.85239,145.36667,OI,3,OI,Approx,Bush,Walking,Day,3+,1,Near
+978,1920,NA,Milabena,-40.85239,145.36667,O*,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+979,1945,NA,Mathinna,-41.52524,147.79078,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+980,1948,NA,Lyell Highway,-42.17325,146.3593,O*,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+981,1950,4,Orford,-42.56861,147.87747,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+983,1955,9,West Tamar,-41.25882,146.91096,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+984,1955,1,Zeehan-Strahan Rd,-42.028856,145.26534,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+985,1957,NA,Arthurs Lake,-41.93123,146.92915,O,5,OO,Approx,Bush,Walking,Unkn,2,1,Unkn
+986,1958,10,Bluff Hill Point,-41.0185,144.62678,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+987,1958,NA,Diddleum Plains,-41.32944,147.44241,O,5,OO,Approx,Bush,Driving,Night,2,1,Near
+988,1958,NA,Tarraleah,-42.30087,146.44899,O*,3,OO,Approx,Road,Driving,Night,1,1,Near
+989,1958,NA,Tulendeena,-41.18507,147.66233,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+990,1960,11,Arthurs Lake,-41.89926,146.93021,S,5,EO,Approx,Bush,Walking,Day,2,1,Near
+992,1960,NA,Tam O'Shanter Bay,-40.99805,147.2067,SI,4,EI,Approx,Bush,Walking,Day,1,1,Near
+993,1960,NA,Clumner Bluff,-41.74946,146.23641,O,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+994,1960,NA,Windermere,-41.30685,147.01191,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+995,1961,12,Hazelmare Creek,-41.67013,147.90239,O,3,OO,Approx,Bush,Walking,Day,2,1,Near
+996,1961,4,Wild Dog Creek,-41.81026,146.28079,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+998,1961,NA,Scottsdale,-41.1666,147.52499,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+999,1961,NA,Russell & Weld Rivers,-42.98792,146.74158,OI,3,OI,Approx,Bush,Walking,Night,1,2,Far
+1000,1962,6,Black River,-40.96511,145.31365,K*,4,EO,Approx,Bush,Walking,Day,1,1,Far
+1001,1962,NA,Frome Dam Track,-41.14655,147.91752,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1002,1962,NA,Rossarden,-41.64155,147.60154,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1003,1962,NA,Tarraleah,-42.30087,146.44899,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1004,1962,NA,Branxholm Rd,-41.20021,147.66911,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1005,1963,NA,Ansons Bay,-41.03545,148.26804,O,4,OO,Approx,Bush,Walking,Night,1,1,Near
+1007,1963,NA,Pipers River,-41.12957,147.11428,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1008,1964,NA,Den Hill,-40.97123,148.11532,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1011,1965,NA,Coles Bay,-42.0832,148.23611,O,5,OO,Approx,Bush,Walking,Day,3+,1,Unkn
+1012,1965,NA,Mt Horror,-41.05252,147.7389,O,5,OO,Approx,Bush,Walking,Night,1,2,Near
+1013,1965,NA,Ross,-42.03099,147.49208,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1014,1965,NA,Southport,-43.42341,146.97242,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1017,1967,3,Crystal Hill,-41.24083,147.99296,S,4,EO,Approx,Road,Driving,Day,1,1,Near
+1019,1967,NA,Loyatea,-41.31679,145.9251,S,5,EO,Approx,Bush,Driving,Day,2,1,Near
+1020,1967,2,Kamona,-41.15701,147.65725,O,4,OO,Approx,Bush,Driving,Night,2,1,Near
+1022,1967,6,Savage River,-41.52782,145.10523,O,5,OO,Approx,Bush,Walking,Day,1,1,Near
+1024,1968,NA,Eddystone Point Road,-40.99677,148.30953,O,4,OO,Approx,Road,Walking,Night,1,1,Near
+1025,1968,10,Golconda,-41.20167,147.30328,S,4,EO,Approx,Road,Driving,Night,1,1,Near
+1026,1968,NA,Ferny Hill & Golconda,-41.13989,147.2987,O*,2,OO,Approx,Road,Driving,Night,1,1,Unkn
+1028,1969,9,The Sideling,-41.24332,147.43059,S,4,EO,Approx,Road,Driving,Night,3+,1,Near
+1029,1969,NA,Chain of Lagoons,-41.66429,148.2836,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1031,1969,NA,Little Pine Lagoon,-42.00165,146.60989,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1032,1969,NA,Rogerton,-41.03158,145.02539,O,2,OO,Approx,Bush,Walking,Day,1,1,Near
+1033,1969,NA,Royal George,-41.84829,147.88876,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1034,1969,NA,Scottsdale,-41.19086,147.56064,S,3,EO,Approx,Road,Driving,Night,1,1,Near
+1036,1969,NA,Blue Tier,-41.18109,148.0026,O*,2,OO,Approx,Bush,Walking,Unkn,2,1,Unkn
+1037,1969,NA,Tulendeena,-41.18507,147.66233,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1038,1970,12,Myrtle Bank,-41.29932,147.35909,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1039,1970,11,Tullah,-41.73967,145.61492,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1040,1970,NA,Mt Horror,-41.05252,147.7389,O,3,OO,Approx,Road,Unkn,Night,2,1,Unkn
+1041,1970,NA,Diddleum Plains,-41.32944,147.44241,O,4,OO,Approx,Bush,Walking,Night,1,1,Unkn
+1043,1970,NA,Golconda,-41.20167,147.30328,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1045,1970,NA,Liena,-41.55703,146.22446,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1047,1970,NA,Luina,-41.46707,145.38461,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1049,1970,NA,Riner's Camp,-42.33214,145.83626,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1050,1970,NA,St Helens,-41.31638,148.23625,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1051,1970,NA,Togari,-40.93276,144.93566,O,5,OO,Approx,Road,Driving,Day,1,1,Near
+1052,1970,NA,Traveller River,-42.11394,146.22995,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1053,1970,NA,Tullochgorum,-41.67695,147.90774,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1054,1970,3,Montagu River,-40.77918,144.93777,O,4,OO,Approx,Road,Driving,Unkn,1,1,Near
+1056,1971,NA,Mt Cameron,-41.01381,147.96362,O,4,OO,Approx,Road,Driving,Night,3+,1,Near
+1059,1971,9,The Sideling,-41.25766,147.43029,O,4,OO,Approx,Road,Driving,Unkn,3+,3+,Near
+1062,1972,6,Luina,-41.47279,145.27263,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+1063,1972,6,Waverley,-41.42946,147.18692,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1064,1972,7,River Forth,-41.65921,146.13463,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1065,1972,8,Forester River,-41.00273,147.49844,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1066,1972,8,Nile,-41.66333,147.34,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1067,1972,8,Rapid River,-41.16922,145.14503,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1068,1972,8,Tullah,-41.73967,145.61492,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1069,1972,NA,Beauty Point,-41.15708,146.81262,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1072,1972,7,Pyengana,-41.24768,148.06925,S,4,EO,Approx,Road,Driving,Night,1,1,Far
+1073,1972,4,Kamona,-41.10278,147.64493,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1075,1973,2,Iron Store,-42.1652,145.66805,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1076,1973,3,Granville Harbour,-41.83611,145.06923,O,4,OO,Approx,Bush,Driving,Day,2,1,Near
+1078,1973,3,Retreat Road,-41.16519,147.1682,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1079,1973,9,Ellendale,-42.61854,146.71654,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1080,1973,NA,Rogerton,-41.03158,145.02539,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1082,1974,9,Weld Hill,-41.13843,147.88471,O*,1,OO,Approx,Road,Driving,Night,1,1,Near
+1084,1974,12,Ben Nevis Rd,-41.3939,147.63485,S,4,EO,Approx,Road,Driving,Day,2,1,Near
+1085,1974,NA,Nile,-41.66333,147.34,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1086,1975,3,Swan Banks,-41.78138,147.72193,O,4,OO,Approx,Bush,Walking,Day,3+,1,Unkn
+1087,1975,4,Cumberland Lake,-41.89924,145.20438,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1088,1976,2,Arthurs Lake,-41.93383,146.85544,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+1089,1977,8,Takone,-41.16229,145.63601,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1091,1978,3,Blessington,-41.49334,147.43202,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1092,1978,9,Wynyard,-40.99545,145.71428,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1093,1978,10,Nabowla,-41.16061,147.36868,O,4,OO,Approx,Road,Walking,Day,1,1,Near
+1094,2000,3,Ben Lomond,-41.56573,147.66182,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1095,1965,NA,Bond Bay ,-43.26689,145.90273,S,5,EO,Approx,Unkn,Walking,Unkn,1,1,Unkn
+1097,1995,1,Pyengana,-41.28954,148.00465,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1098,1963,NA,Lake Leake,-42.03177,147.82867,O,4,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1099,1991,1,Needles Picnic Area,-42.76065,146.4004,S,4,EO,Approx,Road,Walking,Unkn,1,1,Unkn
+1100,1988,NA,Tarraleah,-42.30087,146.44899,S,3,EO,Approx,Bush,Walking,Unkn,2,1,Unkn
+1101,1930,10,Arthur River,-41.05263,144.66732,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+1102,1969,NA,Sundown Creek,-41.1282,144.74061,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1103,1940,NA,Crayfish Creek,-40.85239,145.36667,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1104,1931,NA,Arthur River,-41.05263,144.66732,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1105,1955,NA,Arthur River,-41.05263,144.66732,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1106,1930,NA,Lagoon River,-41.50902,144.8412,S,5,EO,Approx,Bush,Walking,Day,1,1,Unkn
+1107,1980,12,Connors Road,-41.09771,147.72636,O,3,OO,Precise,Road,Driving,Day,1,1,Far
+1108,1925,NA,Detention River Bridge,-40.87888,145.4456,S,5,EO,Approx,Road,Driving,Day,1,1,Near
+1109,1980,11,The Pines Corner,-41.27026,147.21438,S,5,EO,Approx,Road,Driving,Night,2,1,Near
+1110,1945,NA,Mt Rufus,-42.11718,146.12921,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+1111,1951,NA,Bluff Hill Point,-41.0185,144.62678,OI,3,OI,Approx,Bush,Walking,Unkn,3+,1,Far
+1112,1980,NA,Magog Mountain,-41.5136,146.5097,O*I,2,OI,Approx,Bush,Walking,Day,3+,1,Near
+1114,1962,NA,East Tamar,-41.23964,147.00781,O,5,OO,Approx,Road,Driving,Night,1,1,Near
+1118,1965,NA,Railton,-41.32904,146.42365,O*,1,OO,Approx,Unkn,Unkn,Unkn,Unkn,Unkn,Unkn
+1119,1926,NA,Ringarooma,-41.24176,147.73809,S,5,EO,Approx,Road,Walking,Night,2,1,Near
+1120,1926,NA,Mt Victoria,-41.33358,147.83623,SI,5,EI,Approx,Bush,Walking,Day,1,1,Unkn
+1121,1937,NA,Maxwell River,-42.47168,145.95949,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+1122,1944,NA,Jane River,-42.40186,145.98316,S,5,EO,Approx,Bush,Walking,Day,1,3+,Unkn
+1123,1978,3,Dip River,-41.03526,145.37679,O,4,OO,Approx,Bush,Unkn,Unkn,1,1,Unkn
+1124,1980,NA,Dip River,-41.03526,145.37679,OI,3,OI,Approx,Bush,Unkn,Unkn,1,1,Unkn
+1125,1963,NA,Montumana,-40.94966,145.52136,O,4,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1126,1971,NA,Togari,-40.9393,144.88213,O,5,OO,Approx,Road,Driving,Night,1,1,Near
+1127,1933,NA,No location given,NA,NA,S,5,EO,Unkn,Bush,Walking,Day,3+,1,Far
+1128,1930,NA,Scottsdale,-41.1666,147.52499,S,5,EO,Approx,Bush,Walking,Day,3+,1,Near
+1129,1950,1,Frenchmans Cap,-42.26596,145.83501,O,4,OO,Approx,Road,Driving,Night,3+,1,Far
+1130,1962,NA,Evandale ,-41.53894,147.25943,S,4,EO,Approx,Bush,Walking,Day,2,1,Near
+1131,1980,2,Bluff & Church Rock,-41.01116,144.61447,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1132,1959,NA,Montagu Swamp,-40.89677,144.91476,O,4,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1133,1978,NA,Lisle,-41.23331,147.32722,O*,3,OO,Approx,Road,Driving,Night,2,1,Near
+1134,1978,NA,Lucaston,-42.95883,147.01754,O*,3,OO,Approx,Road,Driving,Night,1,1,Near
+1135,1968,11,Dip River,-41.03526,145.37679,O,5,OO,Approx,Bush,Walking,Day,2,1,Far
+1136,1979,7,Barren Hill,-41.30089,146.31764,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+1137,1960,NA,Gardeners Bay,-43.17677,147.15012,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+1138,1978,NA,Little Pine Lagoon,-42.01071,146.59022,O*I,2,OI,Approx,Bush,Walking,Day,2,1,Near
+1139,1979,1,No location given,NA,NA,O*,1,OO,Unkn,Road,Driving,Night,1,3+,Far
+1140,1979,6,Tea Tree Creek,-41.49379,147.42551,O,3,OO,Approx,Road,Driving,Day,3+,1,Far
+1141,1955,2,Prosser River,-42.55618,147.83123,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+1142,1979,2,Coles Bay,-42.0832,148.23611,O,4,OO,Approx,Road,Walking,Day,3+,1,Near
+1143,1978,3,Molesworth Rd,-42.8054,147.16458,O*,1,OO,Approx,Road,Driving,Day,1,1,Far
+1144,1978,2,Huon River,-43.05501,146.76818,O*I,1,OI,Approx,Bush,Walking,Day,1,1,Near
+1145,1977,11,Cam River,-41.15158,145.80202,O,3,OO,Precise,Road,Driving,Night,1,3+,Near
+1146,1976,9,Avoca,-41.78138,147.72193,O*,1,OO,Approx,Bush,Walking,Day,1,1,Near
+1147,1975,4,Kelvedon,-42.20046,148.04555,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1149,1974,12,Prince of Wales Range,-42.41257,146.11733,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+1150,1974,11,Rosebery / Zeehan turn off,-41.7838,145.49197,O,4,OO,Approx,Road,Driving,Day,2,1,Far
+1151,1974,9,Moorina - Weldborough Rd,-41.1589,147.89605,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1152,1974,4,Port Huon,-43.14956,146.89641,O,4,OO,Approx,Unkn,Unkn,Day,2,1,Far
+1153,1970,NA,Lake Mackenzie Rd,-41.66036,146.36349,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1154,1974,12,Mt King William,-42.21056,146.13011,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+1155,1974,11,Mackintosh Valley,-41.70866,145.6447,O*,1,OO,Approx,Road,Driving,Unkn,1,1,Unkn
+1156,1957,NA,Dip River Falls,-41.03526,145.37679,SI,5,EI,Approx,Bush,Walking,Day,1,1,Near
+1157,1932,NA,Richardsons Flats,-41.01456,144.71809,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+1158,1914,NA,Dip Marsh,-40.93051,144.72596,C,4,PS,Approx,Bush,Walking,Day,1,1,Near
+1159,1922,NA,Salmon River,-41.05065,144.82125,K,5,PS,Approx,Bush,Walking,Day,2,1,Near
+1160,1973,10,Swanport River,-42.33235,147.93969,OI,5,OI,Approx,Unkn,Walking,Day,2,1,Near
+1161,1973,9,Swanport River,-42.33235,147.93969,O,5,OO,Approx,Unkn,Unkn,Unkn,2,1,Unkn
+1162,1960,NA,Talinah Lagoon,-41.88311,146.43274,O,5,OO,Approx,Bush,Walking,Night,1,1,Near
+1163,1960,NA,Tam O'Shanter Bay,-41.00994,147.16856,S,4,EO,Approx,Bush,Walking,Day,1,1,Far
+1164,1959,NA,Tam O'Shanter Bay,-41.08157,147.09315,S,4,EO,Approx,Bush,Walking,Day,1,1,Near
+1165,1969,7,Evandale ,-41.57242,147.26773,O*,2,OO,Approx,Road,Driving,Night,2,1,Near
+1168,1971,5,Scottsdale sideling,-41.23224,147.45755,S,4,EO,Approx,Road,Unkn,Day,1,1,Near
+1170,1971,3,Lake Leake,-42.03177,147.82867,S,4,EO,Approx,Bush,Walking,Unkn,1,1,Near
+1171,1961,1,No location given,NA,NA,O*,1,OO,Unkn,Bush,Driving,Night,1,1,Unkn
+1172,1966,6,Maryvale Flat,-41.17791,147.61669,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+1173,1969,12,Derwent Bridge,-42.21002,146.10996,S,5,EO,Approx,Road,Driving,Unkn,2,1,Unkn
+1174,1972,2,Poatina,-41.76611,146.95068,O,4,OO,Approx,Road,Driving,Night,1,1,Unkn
+1175,1964,NA,Myalla,-40.97775,145.57232,O,4,OO,Approx,Bush,Walking,Day,1,1,Far
+1176,1963,2,Greenes Creek,-41.33117,144.75059,S,5,EO,Approx,Bush,Walking,Night,3+,1,Far
+1177,1963,NA,Tewkesbury,-41.20153,145.74923,S,5,EO,Approx,Road,Driving,Night,1,2,Far
+1178,1972,12,Ring River,-41.81655,145.464,S,5,EO,Approx,Bush,Walking,Day,1,1,Near
+1179,1972,NA,Zeehan - Hobart Rd,-41.99068,145.49149,O*,3,OO,Approx,Road,Driving,Day,2,1,Near
+1180,1962,NA,Belvoir River,-41.66353,145.82214,OI,3,OI,Approx,Bush,Walking,Night,1,2,Far
+1181,1969,NA,Bridport,-41.0223,147.37281,O,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1182,1970,4,Stone Bridge,-41.52302,147.06873,C*,5,OO,Approx,Bush,Walking,Day,2,1,Near
+1183,1967,6,Prossers Forest,-41.37112,147.22779,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1184,1967,NA,Mt Lyne,-42.33002,145.81995,O*,1,OO,Approx,Bush,Walking,Day,1,1,Unkn
+1185,1970,NA,Blumont,-41.14497,147.41365,O*,2,OO,Approx,Unkn,Walking,Day,3+,1,Unkn
+1187,1963,NA,St Marys,-41.57857,148.16415,O*,1,OO,Approx,Bush,Walking,Night,2,3+,Unkn
+1189,1960,NA,Fingal,-41.63835,147.96964,O,4,OO,Approx,Bush,Driving,Night,1,1,Unkn
+1190,1968,NA,Moulting Lagoon,-42.02518,148.22747,O,4,OO,Approx,Road,Unkn,Unkn,1,1,Unkn
+1191,1970,NA,Turners Marsh,-41.3285,147.13992,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+1192,1969,NA,Roses Tier,-41.47473,147.64568,O*,3,OO,Approx,Road,Driving,Night,1,1,Unkn
+1193,1971,NA,The Sideling,-41.25766,147.43029,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1194,1972,1,The Sideling,-41.25766,147.43029,O*,2,OO,Approx,Road,Driving,Unkn,1,1,Near
+1195,1972,1,The Sideling,-41.25766,147.43029,O*,2,OO,Approx,Road,Driving,Unkn,1,1,Near
+1196,1960,NA,Diddleum Plains,-41.32946,147.44243,O*,3,OO,Approx,Unkn,Unkn,Unkn,2,1,Unkn
+1197,1970,NA,Butchers Creek,-41.3138,147.21119,O*,1,OO,Approx,Bush,Walking,Night,1,1,Near
+1198,1963,NA,Derby,-41.14608,147.80167,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1199,1968,NA,The Sideling,-41.25766,147.43029,O*,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1200,1965,NA,Rushy Lagoon,-40.85881,148.01617,O*,3,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1201,1955,NA,Brid River,-41.03204,147.36115,C*,4,EO,Approx,Bush,Walking,Day,1,2,Near
+1202,1962,NA,Tongannah,-41.1735,147.61813,O,4,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1203,1972,1,Fingal,-41.57701,147.9864,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1204,1972,1,The Sideling,-41.25766,147.43029,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1205,1969,NA,Weldborough Pass,-41.2166,147.9384,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1206,1961,NA,Nunamara,-41.37068,147.29875,O*,2,OO,Approx,Bush,Walking,Day,1,1,Near
+1207,1970,12,Ansons Bay,-41.06226,148.24121,O*,2,OO,Approx,Road,Driving,Day,1,1,Near
+1208,1953,NA,Blue Tier,-41.17977,148.00348,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+1209,1954,NA,Blue Tier,-41.20052,148.00412,C*,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+1210,1952,NA,North George River,-41.26372,147.94938,S,5,EO,Approx,Unkn,Unkn,Unkn,Unkn,3+,Unkn
+1211,1952,NA,Mt Young,-41.36004,147.95003,S,5,EO,Approx,Unkn,Unkn,Unkn,Unkn,3+,Unkn
+1212,1971,NA,Roses Tier,-41.47473,147.64568,O*,2,OO,Approx,Unkn,Unkn,Unkn,3+,3+,Unkn
+1213,1962,NA,Moorina Hill,-41.13535,147.85702,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1214,1963,NA,Lefroy,-41.09991,146.98876,S,3,EO,Approx,Unkn,Unkn,Unkn,3+,1,Unkn
+1215,1971,NA,Lottah,-41.24395,148.01858,O*,1,OO,Approx,Unkn,Unkn,Night,1,1,Unkn
+1216,1948,NA,St Columba Falls Rd,-41.29897,147.95879,S,5,EO,Approx,Bush,Unkn,Unkn,1,1,Far
+1217,1937,NA,Scotts Peak,-42.97634,146.24438,S,5,EO,Approx,Bush,Walking,Unkn,2,1,Unkn
+1218,1964,NA,Mt Arthur,-41.27441,147.27944,S,3,EO,Approx,Road,Unkn,Unkn,1,3+,Unkn
+1219,1971,10,Bracknell,-41.64844,146.8873,O,3,OO,Approx,Road,Driving,Night,3+,1,Near
+1220,1961,NA,Eldon Bluff,-41.97247,145.82102,O*I,2,OI,Approx,Bush,Unkn,Unkn,2,2,Far
+1221,1960,NA,Walls of Jerusalem,-41.90178,146.25172,O,3,OO,Approx,Bush,Unkn,Unkn,1,1,Unkn
+1222,1970,NA,Woolnorth,-40.71422,144.73783,O*,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1223,1940,NA,Tullah,-41.73967,145.61492,S,5,EO,Approx,Bush,Walking,Night,1,3+,Unkn
+1224,1925,NA,Browns Mt,-41.58917,145.93437,C*,5,EO,Approx,Bush,Walking,Day,1,3+,Near
+1226,1971,NA,Broadmeadows,-40.87567,145.06334,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1227,1971,3,Christmas Hills,-40.90123,145.01607,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1228,1971,4,Brittons Swamp,-40.90522,144.97618,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1229,1972,5,Arthur River,-41.0614,144.73982,O*I,2,OI,Approx,Bush,Walking,Unkn,2,1,Near
+1230,1964,NA,Mawbanna,-40.9665,145.35767,O,4,OO,Approx,Road,Driving,Night,Unkn,1,Far
+1231,1969,NA,Tolina Lagoon,-41.86965,146.4532,O,3,OO,Approx,Bush,Walking,Night,2,1,Far
+1234,1969,NA,Mersey River,-41.76871,146.21636,O*,3,OO,Approx,Bush,Unkn,Day,1,1,Unkn
+1236,1970,NA,Logan Road,-41.53416,147.34625,O*,2,OO,Approx,Road,Driving,Day,2,1,Near
+1237,1916,NA,Balfour,-41.26365,144.88296,S,5,EO,Approx,Bush,Walking,Unkn,1,3+,Unkn
+1238,1968,NA,Nineteen Mile Creek,-41.46528,145.2682,OI,3,OI,Approx,Bush,Walking,Day,2,1,Near
+1239,1971,NA,Luina,-41.48818,145.47239,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+1241,1972,8,Mawbanna,-40.9665,145.35767,S,5,EO,Approx,Road,Unkn,Day,3+,1,Far
+1242,1972,5,Evandale ,-41.57742,147.27101,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1244,1968,NA,Coles Bay,-41.99344,148.24925,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1245,1970,NA,Lake St Clair,-42.11671,146.17776,S,4,EO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1247,1972,7,Union Bridge,-41.4857,146.34952,O*,1,OO,Approx,Road,Driving,Day,1,1,Near
+1248,1966,NA,Mt Roland,-41.46231,146.26685,O*,1,OO,Approx,Bush,Walking,Day,1,1,Near
+1249,1967,NA,Mt Cattley,-41.50437,145.8446,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+1250,1966,NA,Great Lake,-41.98078,146.72157,O,4,OO,Approx,Bush,Walking,Unkn,1,1,Near
+1253,1961,NA,Bridport,-41.02988,147.22921,O*,2,OO,Approx,Unkn,Unkn,Day,Unkn,1,Unkn
+1254,1973,NA,Arthur River,-41.00797,144.66825,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1255,1973,1,Bass Hwy,-40.93856,144.7624,O*,2,OO,Approx,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1256,2016,6,Gog Road,-41.49672,146.3888,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1257,2011,3,Queenstown-Strahan Rd,-42.15579,145.44573,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+1259,2010,5,Cradle Mtn Road,-41.59367,145.92968,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1261,2006,3,Harcus River Road,-40.86662,144.7414,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1262,2006,6,Lyell Highway,-42.18522,145.93916,O*,1,OO,Approx,Road,Driving,Day,2,1,Near
+1263,2005,2,West Point State Reserve,-40.9374,144.63708,O*,1,OO,Precise,Road,Driving,Night,2,1,Near
+1264,2005,6,Bronte,-42.16919,146.48887,O*,1,OO,Approx,Road,Driving,Day,3+,1,Near
+1265,2005,3,Hibbs Lagoon,-42.45774,145.36283,O*,1,OO,Approx,Bush,Walking,Day,2,1,Far
+1266,2004,2,Lake Leake Highway,-42.03177,147.82867,O*,2,OO,Approx,Road,Driving,Night,2,1,Near
+1267,2004,11,Zeehan,-41.80887,145.27745,O,4,OO,Approx,Road,Driving,Day,1,1,Near
+1268,2004,10,Queenstown-Strahan Rd,-42.15579,145.44573,O,3,OO,Approx,Road,Driving,Night,1,1,Far
+1270,2002,9,Ansons Bay,-41.06226,148.24121,O*,2,OO,Approx,Road,Driving,Day,2,1,Far
+1271,2003,6,Pass Rd,-42.86921,147.425,O*,2,OO,Approx,Road,Driving,Night,2,1,Near
+1273,2002,4,Western Explorer Road,-41.56969,145.09203,O,5,OO,Precise,Road,Driving,Day,2,1,Far
+1274,2002,6,Brid River,-41.08234,147.39698,O*,1,OO,Precise,Bush,Walking,Day,1,1,Near
+1276,2001,9,The Sidling,-41.25766,147.43029,O*,1,OO,Approx,Road,Driving,Night,1,1,Near
+1280,1992,11,Laughing Jack Marsh,-42.22124,146.36784,O,5,OO,Approx,Bush,Walking,Day,1,3+,Near
+1282,2000,5,Cradle Link Rd,-41.58917,145.93437,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1283,1999,11,Lake Rowallan,-41.78419,146.19964,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+1285,1999,12,Pyngana Bridge,-41.27108,147.97019,O,5,OO,Approx,Road,Driving,Day,2,1,Near
+1286,1992,1,Mt Arthur,-41.27441,147.27944,S,4,EO,Approx,Bush,Walking,Night,1,1,Near
+1287,1992,1,Mt Arthur,-41.27441,147.27944,S,4,EO,Approx,Bush,Walking,Night,1,1,Near
+1288,1992,6,Lone Star Ridge Road,-41.24017,147.29479,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Far
+1291,1998,10,Howards Road Prospect,-41.91452,145.507,O*,1,OO,Approx,Road,Driving,Day,2,1,Near
+1294,1997,8,Blythe Road,-41.36204,145.84716,S,5,EO,Approx,Road,Driving,Night,1,1,Near
+1297,1997,4,Hadspen,-41.51286,147.09511,O*,1,OO,Approx,Road,Driving,Day,2,1,Near
+1298,1996,10,Mt Hobbs,-42.49328,147.58698,O,4,OO,Approx,Bush,Walking,Day,2,2,Near
+1299,1996,NA,Mt Hobbs,-42.49328,147.58698,O,4,OO,Approx,Road,Driving,Unkn,2,1,Near
+1301,1997,4,Tarkine Road,-40.95513,144.84917,O*,1,OO,Approx,Road,Driving,Day,2,1,Near
+1302,1997,4,Penguin,-41.12964,146.06533,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1303,1996,3,Mt Field,-42.68553,146.59338,O*,3,OO,Approx,Road,Driving,Day,1,1,Near
+1305,1996,3,Mole Creek,-41.55654,146.40325,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1307,1995,12,Strathgordon,-42.7831,146.03225,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+1308,1996,9,Woodsdale,-42.48153,147.57644,O,4,OO,Approx,Bush,Walking,Day,2,1,Near
+1309,1996,NA,Levendale,-42.53266,147.56643,O,4,OO,Approx,Bush,Walking,Day,2,2,Near
+1310,1996,10,Gordon River,-42.44824,145.58381,O,4,OO,Precise,Bush,Driving,Day,3+,1,Far
+1311,1996,7,Mt Black,-41.75318,145.56033,O,2,OO,Approx,Road,Driving,Day,1,1,Near
+1312,1989,4,Edgar Dam,-43.02933,146.35015,O,4,OO,Approx,Bush,Walking,Night,2,1,Near
+1313,1990,NA,Beulah,-41.45089,146.37843,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1316,1995,4,Lyell Highway,-42.16279,145.92755,O,4,OO,Approx,Road,Driving,Night,2,1,Far
+1317,1995,2,Cethana,-41.47281,146.09481,S,4,EO,Approx,Road,Driving,Night,2,1,Far
+1318,1995,2,Dove Canyon Track,-41.59448,145.94132,O*,2,OO,Approx,Bush,Walking,Day,1,1,Near
+1320,1995,11,Epping,-41.763,147.35373,O,3,OO,Approx,Road,Driving,Night,1,1,Near
+1321,1995,10,Heemskirk Road ,-41.73077,145.1022,O,4,OO,Precise,Road,Driving,Night,1,1,Near
+1322,1995,5,Welcome Swamp,-40.95095,144.80529,O*,1,OO,Approx,Road,Driving,Day,1,1,Near
+1324,1993,NA,Cradle Mtn Road,-41.58917,145.93437,O,3,OO,Approx,Road,Driving,Night,3+,2,Near
+1325,1995,9,Stanmore Hill,-43.30501,147.04195,O*I,2,OI,Approx,Bush,Walking,Night,1,2,Near
+1326,1995,NA,Heazlewood River,-41.44257,145.34714,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Near
+1327,1994,3,Christmas Hills,-40.8694,145.07227,O,5,OO,Precise,Bush,Walking,Day,1,1,Near
+1328,1994,9,Greens Beach,-41.09441,146.7481,O,4,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1329,1994,2,Queenstown-Strahan Rd,-42.15579,145.44573,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1330,2018,2,King William Saddle,-42.21083,146.11434,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1333,1993,2,Bella Macargee Creek,-41.22729,146.27382,O,4,OO,Precise,Bush,Walking,Night,1,1,Near
+1334,1993,4,Murchison Highway,-42.01794,145.50978,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1335,1992,3,Rubicon Hills,-41.23986,146.56451,O*,3,OO,Precise,Road,Driving,Night,2,1,Far
+1336,1992,4,Cethana,-41.48411,146.14795,O*,1,OO,Approx,Road,Driving,Day,1,1,Near
+1337,1992,4,Bridegwater,-42.73144,147.23534,O*,1,OO,Approx,Bush,Walking,Night,1,1,Near
+1338,1995,3,Mt Victoria Cross,-43.45105,146.66345,O*I,2,OI,Precise,Bush,Walking,Day,3+,1,Near
+1339,1993,3,Meadow Bank Dam,-42.63887,146.84298,O,4,OO,Approx,Road,Driving,Night,2,1,Near
+1340,1992,12,Forcett,-42.81875,147.6754,O,4,OO,Approx,Road,Driving,Day,2,1,Near
+1341,1950,4,Mt Wright,-42.62002,146.3301,S,5,EO,Approx,Bush,Walking,Day,2,3+,Near
+1342,1992,8,Coles Bay,-42.07629,148.23494,O,5,OO,Precise,Road,Driving,Night,1,1,Near
+1343,1958,NA,Asbestos Range,-41.14004,146.67432,O,3,OO,Approx,Bush,Walking,Night,2,1,Near
+1344,1991,11,Forth ,-41.1898,146.2503,O,4,OO,Approx,Bush,Walking,Night,1,1,Near
+1346,1991,3,Poatina Road,-41.96586,146.86385,O,4,OO,Approx,Road,Driving,Day,1,1,Far
+1347,1991,3,Murdochs Hill,-41.21278,148.06332,O,4,OO,Precise,Road,Driving,Day,2,1,Far
+1348,1991,10,Adamson Peak,-43.34965,146.82713,O,4,OO,Approx,Road,Walking,Day,1,1,Far
+1349,1992,3,Davisons Pt,-40.65734,144.71204,O,2,OO,Precise,Unkn,Driving,Day,1,1,Far
+1350,1991,2,Bishopsbourne,-41.64274,146.9697,O*I,1,OI,Approx,Bush,Walking,Day,1,1,Near
+1351,1990,9,Cradle Mtn Road,-41.58917,145.93437,O*,1,OO,Approx,Road,Driving,Night,1,1,Near
+1352,1990,7,Cradle Mtn Road,-41.58917,145.93437,O,4,OO,Approx,Road,Driving,Night,1,2,Near
+1353,1990,10,Cradle Mtn Road,-41.58917,145.93437,O,4,OO,Approx,Road,Driving,Night,3+,1,Far
+1354,1990,12,Nietta,-41.37296,146.06799,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+1355,1990,8,Forth ,-41.1898,146.2503,O,4,OO,Approx,Road,Driving,Day,2,1,Far
+1356,1991,11,Forth ,-41.1898,146.2503,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1357,1990,6,Tea Tree,-42.69147,147.34386,O*I,2,OI,Approx,Bush,Driving,Day,2,2,Far
+1358,1990,4,Mt Wellington,-42.92305,147.25488,O*I,1,OI,Approx,Bush,Walking,Night,1,2,Far
+1359,1990,10,Maydena Toll Gate,-42.74194,146.41804,O*,3,OO,Approx,Road,Driving,Day,1,1,Far
+1360,1990,4,Stony Lagoon,-41.88063,146.49911,O*I,1,OI,Approx,Road,Walking,Day,2,Unkn,Near
+1361,1992,2,Coles Bay,-41.99106,148.0669,O,2,OO,Approx,Road,Driving,Night,2,1,Near
+1362,1990,2,Lucaston,-42.96733,147.02592,O*,1,OO,Approx,Bush,Walking,Night,1,1,Far
+1363,1989,7,Tea Tree,-42.69147,147.34386,O,3,OO,Approx,Road,Driving,Night,2,2,Far
+1364,1990,5,Tea Tree,-42.69147,147.34386,O*I,2,OI,Approx,Bush,Driving,Night,2,1,Near
+1365,1989,NA,Arthur / Hellyer River ,-41.21649,145.51666,OI,3,OI,Approx,Bush,Walking,Day,2,1,Near
+1366,1970,1,Lake Vera,-42.27296,145.87908,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+1367,1988,1,Du Cane Hut,-41.90451,146.10223,O*I,1,OI,Approx,Bush,Walking,Night,1,2,Far
+1368,1963,NA,Forester River,-41.00273,147.49844,S,5,EO,Approx,Bush,Walking,Night,1,1,Far
+1370,1984,1,Little Henty River,-41.94856,145.19568,S,4,EO,Approx,Bush,Walking,Unkn,2,1,Unkn
+1371,1982,NA,Luina / Waratah,-40.85239,145.36667,O,4,OO,Approx,Road,Driving,Night,1,1,Near
+1372,1983,6,Luina,-40.85239,145.36667,O,5,OO,Approx,Road,Driving,Night,2,2,Near
+1373,1979,NA,Waratah,-41.44451,145.53322,O*,2,OO,Approx,Road,Driving,Night,1,1,Near
+1374,1984,2,D'Entrecasteaux River ,-43.50689,146.87573,S,5,EO,Approx,Road,Driving,Unkn,1,1,Near
+1375,1939,NA,Corinna,-41.62695,145.07835,S,5,EO,Approx,Road,Walking,Day,1,1,Near
+1376,1984,NA,Franklin River,-42.37584,145.75683,OI,3,OI,Approx,Bush,Walking,Day,1,1,Near
+1377,1984,1,London Lakes,-42.18851,146.52584,O*I,2,OI,Approx,Bush,Walking,Night,2,2,Far
+1379,1982,2,Saxons Creek,-41.32513,146.74382,O,3,OO,Approx,Road,Driving,Night,2,1,Near
+1380,1980,10,Wattle Hill,-42.7603,147.65779,O,4,OO,Approx,Bush,Walking,Day,1,1,Near
+1381,2018,6,Queenstown-Strahan Rd,-42.15579,145.44573,O*,1,OO,Approx,Road,Driving,Day,1,1,Far
+1382,1973,3,Granville Harbour,-41.81006,145.03366,O,3,OO,Approx,Bush,Walking,Night,1,1,Far
+1383,1998,NA,Ben Lomond,-41.56573,147.66182,O,3,OO,Approx,Bush,Walking,Unkn,1,2,Unkn
+1384,1924,NA,Mt Arrowsmith,-42.21363,146.06708,C*,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+1385,1940,NA,Black Creek (north of),-42.77488,146.65447,SI,5,EI,Approx,Bush,Walking,Day,1,3+,Near
+1387,1989,NA,Scotts Peak Dam,-43.03261,146.29439,O,4,OO,Precise,Road,Driving,Day,2,2,Near
+1388,2007,NA,Corinna,-41.5727,145.0908,O*,2,OO,Approx,Road,Driving,Unkn,1,1,Near
+1390,2009,NA,Low Rocky Point,-40.85239,145.36667,O*,2,OO,Approx,Bush,Driving,Day,3+,3+,Far
+1391,1999,NA,Hastings,-43.41423,146.89125,O*,2,OO,Approx,Road,Driving,Day,2,1,Near
+1392,1981,12,Central Highlands,-41.86082,146.58744,O*,2,OO,Broad,Road,Driving,Night,2,1,Far
+1393,2018,6,North West,-41.11541,144.9838,O*I,2,OI,Broad,Bush,Walking,Night,3+,2,Far
+1394,2018,6,North West,-41.11541,144.9838,O*,1,OO,Broad,Bush,Walking,Unkn,1,2,Unkn
+1395,2019,5,South East,-43.4164,146.90914,O*I,1,OI,Broad,Bush,Walking,Day,1,Unkn,Unkn
+1396,2019,2,South East,-43.4164,146.90914,O*,2,OO,Broad,Road,Driving,Day,1,1,Far
+1397,2019,6,South East,-43.4164,146.90914,O,4,OO,Broad,Bush,Walking,Day,1,1,Near
+1398,2019,5,North East,-41.34602,147.77863,O,3,OO,Broad,Bush,Walking,Unkn,1,1,Unkn
+1399,2019,6,North East,-41.34602,147.77863,O*,2,OO,Broad,Road,Driving,Night,2,1,Far
+1400,1963,NA,Tomahawk River,-40.9829,147.76207,O,3,OO,Approx,Bush,Walking,Unkn,1,1,Unkn
+1401,1997,6,Ben Lomond,-41.56573,147.66182,O,3,OO,Approx,Unkn,Unkn,Unkn,1,1,Unkn
+1402,1911,8,Unknown locality,NA,NA,C,5,PS,Unkn,Unkn,Unkn,Unkn,Unkn,2,Unkn
+1403,1915,9,Unknown locality,NA,NA,C,5,PS,Unkn,Unkn,Unkn,Unkn,Unkn,2,Unkn
+1404,1917,NA,Billycock Ranges,-41.17339,147.76905,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+1405,1924,2,North West,-41.05994,144.68335,C,5,PS,Broad,Bush,Walking,Day,1,1,Near
+1406,1927,NA,North West,-41.05994,144.68335,C,5,PS,Broad,Bush,Walking,Day,1,1,Near
+1407,1930,NA,Natone,-41.16448,145.92134,OI,5,OI,Approx,Bush,Walking,Day,2,1,Near
+1408,1930,NA,Natone,-41.16448,145.92134,S,5,EO,Approx,Bush,Walking,Night,3+,1,Near
+1409,1923,NA,Florentine Valley,-42.66901,146.47072,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1410,1925,NA,Rasselas Valley,-42.54076,146.39429,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1411,1928,NA,Mt Bowes,-42.85437,146.40775,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1412,1931,NA,Needles,-42.782,146.48431,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1413,1933,NA,South Gordon Track,-42.55058,146.28624,K,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1414,1950,NA,Coles Bay,-42.0832,148.23611,K*,2,OO,Approx,Road,Driving,Night,1,1,Near
+1415,2009,2,Lake St Clair,-42.00316,146.09874,O,4,OO,Precise,Bush,Walking,Day,1,1,Near
+1416,2018,1,Corinna,-41.65304,145.075367,O,3,OO,Precise,Road,Driving,Day,2,1,Near
+1417,2018,11,Hartz Mountains,-43.24378,146.76654,O*,2,OO,Approx,Unkn,Unkn,Unkn,1,3+,Unkn
+1418,2019,7,Sleeping Beauty Mountain,-42.89583,147.14005,O*I,2,OI,Approx,Bush,Walking,Day,1,1,Unkn
+1419,2012,NA,Midlands,-42.01379,147.49199,O*,2,OO,Broad,Unkn,Unkn,Unkn,Unkn,1,Unkn
+1420,1937,NA,Westbury,-41.56874,146.7238,C*,4,EO,Approx,Bush,Walking,Unkn,1,1,Near
+1421,1910,NA,Spring Bay,-42.53103,147.93135,C,5,PS,Approx,Bush,Walking,Unkn,1,1,Near
+1422,1911,NA,Tyenna,-42.72454,146.6759,C*,5,EO,Precise,Bush,Walking,Unkn,1,2,Near
+1423,1924,8,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Unkn,1,3+,Near
+1424,1924,1,North Bischoff Valley,-41.40799,145.51643,S,5,EO,Precise,Bush,Walking,Day,1,1,Near
+1425,1927,NA,Arthur River,-41.05263,144.66732,C,5,PS,Approx,Bush,Walking,Day,1,3+,Near
+1426,1925,5,Goodrich Plain,-41.65692,145.60547,S,5,EO,Approx,Bush,Walking,Unkn,1,1,Near
+1427,1938,3,Nagabeena,-40.98665,145.12179,S,5,EO,Approx,Bush,Walking,Day,1,3+,Near
+1428,1910,7,Western Tiers,-41.74996,146.58128,C,5,PS,Approx,Bush,Walking,Day,1,1,Near
+1429,1915,9,Gordon Tiers,-42.44824,145.58381,C,5,PS,Approx,Bush,Walking,Day,1,3+,Near
+1430,1924,NA,Unknown locality,NA,NA,C,5,PS,Approx,Bush,Walking,Day,1,2,Near
