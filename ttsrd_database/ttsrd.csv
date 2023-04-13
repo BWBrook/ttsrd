@@ -56,16 +56,12 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 63,1923,5,Adamsfield,-42.71924,146.3249,C,5,PS,A,B,W,U,S,1,N
 64,1923,6,Tyenna,-42.72454,146.6759,C,5,PS,A,B,W,U,S,1,N
 65,1923,9,Gordon River Plains,-42.59706,145.72486,C,5,PS,A,B,W,U,S,4,N
-66,1924,NA,Florentine Valley,-42.58325,146.48187,C,5,PS,A,B,W,U,S,4,N
 67,1924,3,Arthur River,-41.05263,144.66732,C,5,PS,A,B,W,U,S,2,N
-68,1924,8,Woolnorth,-40.71422,144.73783,C,5,PS,A,B,W,U,S,1,N
 69,1924,NA,Deloraine,-41.52569,146.65818,K,4,PS,A,B,W,N,S,1,N
 70,1924,NA,Mt Wright,-42.62002,146.3301,S,5,EO,A,B,W,U,P,1,N
 71,1924,NA,Saw Back Range,-42.76637,146.34017,S,5,EO,A,B,W,U,S,2,F
 72,1924,NA,Styx River,-42.77837,146.77114,S,5,EO,A,B,W,U,S,1,N
 73,1925,5,Goodrich Plain,-41.65692,145.60547,C,5,PS,A,B,W,U,S,1,N
-74,1925,7,Woolnorth,-40.71422,144.73783,C,5,PS,A,B,W,U,S,2,N
-75,1925,10,Woolnorth,-40.71422,144.73783,C,5,PS,A,B,W,U,S,1,N
 77,1925,NA,Arthur River,-41.05263,144.66732,K,5,PS,A,B,W,U,S,1,N
 78,1925,NA,Maynes Hill,-42.7786,146.57178,C,5,PS,A,B,W,U,S,2,N
 79,1925,NA,Trowutta,-41.06811,145.09046,K,5,PS,A,B,W,U,U,1,U
@@ -74,7 +70,6 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 82,1926,NA,Arthur River,-41.05263,144.66732,C*,5,EO,A,B,W,U,P,1,N
 83,1926,NA,Arthur River,-41.05263,144.66732,S,5,EO,A,B,W,U,S,1,N
 85,1926,NA,Lake St Clair,-42.11671,146.17776,K,5,PS,A,B,W,U,S,1,N
-86,1927,5,Adamsfield,-42.71602,146.28068,C,5,PS,A,B,W,U,S,1,N
 87,1927,5,Adamsfield,-42.72345,146.35405,SI,5,EI,A,B,W,U,S,1,N
 88,1927,7,Arthur River,-41.05263,144.66732,C,4,PS,A,B,W,U,S,1,N
 90,1927,NA,Lagoon River,-41.51524,144.98166,C*,5,EO,A,B,W,U,P,1,N
@@ -83,15 +78,12 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 93,1927,NA,Trowutta,-41.06811,145.09046,S,5,EO,A,B,W,U,S,3,N
 94,1927,7,West Oonah,-41.22432,145.61204,K,5,PS,A,B,W,U,S,2,N
 95,1928,1,Trowutta,-41.06811,145.09046,C,5,PS,A,B,W,U,S,3,N
-96,1928,1,Tyenna,-42.72454,146.6759,C,5,PS,A,B,W,U,S,1,N
 97,1928,3,Arthur River,-41.05263,144.66732,C,5,PS,A,B,W,U,P,1,N
 98,1928,4,Gordon River,-42.74617,145.96541,SI,5,EI,A,B,W,D,P,1,N
-99,1928,4,Port Davey Track,-43.26632,146.07484,C,5,PS,B,B,W,U,S,2,N
 100,1928,11,Port Huon,-43.14084,146.94699,S,5,EO,A,B,W,?,M,1,N
 101,1928,4,Hellyer Gorge,-41.28411,145.60398,C,5,PS,A,B,W,U,S,1,N
 103,1929,4,Adamsfield,-42.71924,146.3249,S,5,EO,A,B,W,N,S,1,N
 104,1930,6,Arthur River,-41.16804,145.45115,C,5,PS,A,B,W,D,P,3,N
-105,1929,6,Arthur River,-41.16804,145.45115,K,5,PS,A,B,W,D,S,3,N
 106,1929,NA,Rosebery,-41.76831,145.53792,S,5,EO,A,R,W,N,S,1,N
 107,1929,NA,Wylds Craig,-42.47399,146.38991,S,5,EO,A,B,W,N,S,1,N
 108,1930,4,Newhaven Track,-40.99687,145.42598,SI,5,EI,A,B,W,D,M,5,N
@@ -124,7 +116,6 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 140,1933,NA,Boyes & Pokana River,-42.54028,146.253,K*,5,EO,A,B,W,D,S,1,N
 141,1933,NA,Port Davey Track,-43.26632,146.07484,OI,4,OI,B,B,W,D,S,1,N
 143,1933,NA,Wynyard,-40.99056,145.7447,K,5,PS,A,B,W,D,M,1,N
-144,1934,5,Florentine Valley,-42.58325,146.48187,C*,3,EO,A,B,W,D,S,1,N
 145,1934,NA,Pieman River,-41.6525,145.07653,S,5,EO,A,B,W,U,S,2,N
 146,1934,NA,Mt Victoria,-41.33358,147.83623,S,5,EO,A,B,W,N,S,1,N
 147,1934,NA,Spero River,-42.63628,145.33797,S,5,EO,A,B,W,N,S,2,N
@@ -585,10 +576,6 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 684,1926,NA,Waratah,-41.44451,145.53322,K*,3,EO,A,B,W,U,S,1,N
 685,1929,NA,Blessington,-41.49334,147.43202,K*,3,EO,A,B,W,U,S,1,N
 686,1923,9,Adamsfield,-42.71924,146.3249,C,5,PS,A,B,W,D,S,1,N
-687,1924,4,North West,-41.05994,144.68335,C,5,PS,B,B,W,D,S,1,N
-688,1924,8,North West,-41.05994,144.68335,C,5,PS,B,B,W,D,S,3,N
-689,1925,6,North West,-41.05994,144.68335,C,5,PS,B,B,W,D,S,1,N
-690,1928,2,Waratah,-41.44451,145.53322,C,5,PS,A,B,W,D,S,1,N
 691,1912,NA,Black River,-40.86182,145.32864,K*,5,EO,A,B,W,D,P,1,N
 692,1938,NA,Point Hibbs,-42.60374,145.295,S,5,EO,A,B,W,U,S,3,N
 693,1941,NA,Mt Misery,-42.96972,147.00799,S,5,EO,A,B,W,N,S,2,N
@@ -1194,7 +1181,6 @@ id,year,month,location,lat,lon,type,rating,edec,geog.acc,sight.loc,obs.mob,time.
 1385,1940,NA,Black Creek (north of),-42.77488,146.65447,SI,5,EI,A,B,W,D,S,5,N
 1387,1989,NA,Scotts Peak Dam,-43.03261,146.29439,O,4,OO,P,R,D,D,P,2,N
 1388,2007,NA,Corinna,-41.5727,145.0908,O*,2,OO,A,R,D,U,S,1,N
-1389,1925,5,Lottah,-41.24395,148.01858,C,5,PS,A,B,W,D,S,1,N
 1390,2009,NA,Low Rocky Point,-40.85239,145.36667,O*,2,OO,A,B,D,D,M,3,F
 1391,1999,NA,Hastings,-43.41423,146.89125,O*,2,OO,A,R,D,D,P,1,N
 1392,1981,12,Central Highlands,-41.86082,146.58744,O*,2,OO,B,R,D,N,P,1,F
