@@ -11,7 +11,7 @@
 
 ## Source documents and observer identities
 
-The scanned attachments for each record (original sighting descriptions, letters and agency forms) and the full spreadsheets with observer names (v1.0.0 with all 1237 records, v1.1.0 and v1.1.1) are no longer kept in this repository. Many of the documents carry personal details of the people who reported sightings, such as names, signatures, addresses and phone numbers, so they are held in a restricted-access Zenodo record (DOI to be added) and released on request for non-commercial research. They were removed from this repository's history on 2 November 2026; the analysis code and results are unchanged.
+The scanned attachments for each record (original sighting descriptions, letters and agency forms) and the full spreadsheets with observer names (v1.0.0 with all 1237 records, v1.1.0 and v1.1.1) are no longer kept in this repository. Many of the documents carry personal details of the people who reported sightings, such as names, signatures, addresses and phone numbers, so they are held in a restricted-access Zenodo record, [doi:10.5281/zenodo.23876288](https://doi.org/10.5281/zenodo.23876288), and released on request for non-commercial research. They were removed from this repository's history on 2 November 2026; the analysis code and results are unchanged.
 
 <i>Associated peer-reviewed paper:</i>  
 Brook, B.W., Sleightholme, S.R., Campbell, C.R., Jarić, I. & Buettel, J.C. (2023). Resolving when (and where) the Thylacine went extinct. <i>Science of The Total Environment</i>, 877, 162878. [https://doi.org/10.1016/j.scitotenv.2023.162878](https://doi.org/10.1016/j.scitotenv.2023.162878)
