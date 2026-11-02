@@ -1,0 +1,7 @@
+# Source documents and full spreadsheets with observer names are held in a
+# restricted Zenodo record; keep local copies untracked.
+ttsrd_attachments/
+TTSRD_attachments/
+ttsrd_database/TTSRD_1.*.xlsx
+!ttsrd_database/TTSRD_1.1.1_public.xlsx
+TTSRD_1.0.0.xlsx
