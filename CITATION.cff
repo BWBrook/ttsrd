@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code or database, please cite the paper below and this archived release."
+type: software
+title: "ttsrd: R code and the Tasmanian Thylacine Sighting Record Database"
+version: v1.0.0
+date-released: 2026-11-04
+doi: 10.5281/zenodo.23935032
+license: GPL-3.0-only
+repository-code: "https://github.com/BWBrook/ttsrd"
+authors:
+  - family-names: Brook
+    given-names: Barry W.
+    orcid: "https://orcid.org/0000-0002-2491-1517"
+    affiliation: University of Tasmania
+  - family-names: Sleightholme
+    given-names: Stephen R.
+  - family-names: Campbell
+    given-names: Cameron R.
+  - family-names: Jarić
+    given-names: Ivan
+  - family-names: Buettel
+    given-names: Jessie C.
+references:
+  - type: data
+    title: "Tasmanian Thylacine Sighting Record Database: source documents and observer records (restricted access)"
+    doi: 10.5281/zenodo.23876288
+    authors:
+      - family-names: Brook
+        given-names: Barry W.
+preferred-citation:
+  type: article
+  title: "Resolving when (and where) the Thylacine went extinct"
+  journal: "Science of The Total Environment"
+  volume: 877
+  start: 162878
+  year: 2023
+  doi: 10.1016/j.scitotenv.2023.162878
+  authors:
+    - family-names: Brook
+      given-names: Barry W.
+    - family-names: Sleightholme
+      given-names: Stephen R.
+    - family-names: Campbell
+      given-names: Cameron R.
+    - family-names: Jarić
+      given-names: Ivan
+    - family-names: Buettel
+      given-names: Jessie C.

@@ -15,3 +15,5 @@ The scanned attachments for each record (original sighting descriptions, letters
 
 <i>Associated peer-reviewed paper:</i>  
 Brook, B.W., Sleightholme, S.R., Campbell, C.R., Jarić, I. & Buettel, J.C. (2023). Resolving when (and where) the Thylacine went extinct. <i>Science of The Total Environment</i>, 877, 162878. [https://doi.org/10.1016/j.scitotenv.2023.162878](https://doi.org/10.1016/j.scitotenv.2023.162878)
+
+<i>Archived code and database:</i> release v1.0.0 of this repository is archived at [doi:10.5281/zenodo.23935032](https://doi.org/10.5281/zenodo.23935032). Please cite the paper and this archive; `CITATION.cff` holds both.
